@@ -463,9 +463,6 @@ def main():
             f"Showing lines {start_idx + 1}-{end_idx} of {len(filtered_dialogues)}"
         )
 
-    # Keep page state clamped to current range after user edits page/filters.
-    st.session_state["page_num"] = min(max(1, int(page_num)), total_pages)
-
     with st.container(height=760, border=True):
         for dialogue in paged_dialogues:
             st.markdown("<div class='line-row'>", unsafe_allow_html=True)
