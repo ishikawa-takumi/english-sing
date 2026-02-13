@@ -1,0 +1,250 @@
+{
+  "movie": "Sing (2016)",
+  "dialogues": [
+    {
+      "id": 1,
+      "scene": "Opening - Theater Introduction",
+      "character": "Young Buster Moon",
+      "english": "When I was a kid, my dad took me to see a show, and it was like nothing I'd ever seen before.",
+      "japanese": "子供の頃、父に連れられてショーを見に行った。今まで見たことのないものだった。"
+    },
+    {
+      "id": 2,
+      "scene": "Opening - Theater Introduction",
+      "character": "Narrator",
+      "english": "The Moon Theater. Where dreams come true.",
+      "japanese": "ムーンシアター。夢が叶う場所。"
+    },
+    {
+      "id": 3,
+      "scene": "Singing Competition Announcement",
+      "character": "Buster Moon",
+      "english": "I'm going to put on the greatest singing competition this city has ever seen!",
+      "japanese": "この街で今まで見たことがない最高の歌のコンテストを開催する！"
+    },
+    {
+      "id": 4,
+      "scene": "Singing Competition Announcement",
+      "character": "Buster Moon",
+      "english": "One thousand dollars for the winner.",
+      "japanese": "優勝者には千ドルを贈呈します。"
+    },
+    {
+      "id": 5,
+      "scene": "Rosita's Introduction",
+      "character": "Rosita",
+      "english": "I used to sing. A long time ago. Before the kids.",
+      "japanese": "昔は歌っていたの。ずっと昔、子供が生まれる前に。"
+    },
+    {
+      "id": 6,
+      "scene": "Rosita's Introduction",
+      "character": "Rosita",
+      "english": "I have 25 piglets. Feeding, bathing, there's so much to do.",
+      "japanese": "25匹の子豚がいるの。餌やり、お風呂、やることがたくさんあるの。"
+    },
+    {
+      "id": 7,
+      "scene": "Johnny's Introduction",
+      "character": "Johnny",
+      "english": "I don't want to be in the gang anymore, Dad. I want to be a singer.",
+      "japanese": "もうギャングの仲間でいたくないんだ、父さん。僕は歌手になりたい。"
+    },
+    {
+      "id": 8,
+      "scene": "Johnny's Introduction",
+      "character": "Big Daddy",
+      "english": "You're my son. You're going to do what I say.",
+      "japanese": "お前は俺の息子だ。俺の言う通りにするんだ。"
+    },
+    {
+      "id": 9,
+      "scene": "Ash's Introduction",
+      "character": "Ash",
+      "english": "I write my own songs. I'm not interested in singing other people's stuff.",
+      "japanese": "私は自分で曲を書くの。他の人の曲を歌うことには興味ない。"
+    },
+    {
+      "id": 10,
+      "scene": "Ash's Introduction",
+      "character": "Ash",
+      "english": "I'm a rock star, not some pop singer.",
+      "japanese": "私はロックスターなの、ポップシンガーじゃない。"
+    },
+    {
+      "id": 11,
+      "scene": "Meena's Introduction",
+      "character": "Meena",
+      "english": "I get so nervous. I can't sing in front of people.",
+      "japanese": "すごく緊張しちゃうの。人前で歌えないの。"
+    },
+    {
+      "id": 12,
+      "scene": "Meena's Introduction",
+      "character": "Meena's Grandfather",
+      "english": "You have a gift, Meena. Don't let fear get in the way.",
+      "japanese": "お前には才能があるんだ、ミーナ。恐怖に邪魔させるな。"
+    },
+    {
+      "id": 13,
+      "scene": "Mike's Introduction",
+      "character": "Mike",
+      "english": "I'm the greatest singer in this town. Nobody can touch me.",
+      "japanese": "俺はこの街で最高の歌手だ。誰も俺にはかなわない。"
+    },
+    {
+      "id": 14,
+      "scene": "Mike's Introduction",
+      "character": "Mike",
+      "english": "You're looking at a star, baby.",
+      "japanese": "スターを見ているんだぜ、ベイビー。"
+    },
+    {
+      "id": 15,
+      "scene": "Gunter's Introduction",
+      "character": "Gunter",
+      "english": "I am Gunter! And I love to dance!",
+      "japanese": "僕はグンター！踊るのが大好き！"
+    },
+    {
+      "id": 16,
+      "scene": "Auditions",
+      "character": "Buster Moon",
+      "english": "Next! Show me what you got!",
+      "japanese": "次！何ができるか見せて！"
+    },
+    {
+      "id": 17,
+      "scene": "Auditions",
+      "character": "Miss Crawly",
+      "english": "Mr. Moon, we have a problem with the prize money.",
+      "japanese": "ムーンさん、賞金に問題があります。"
+    },
+    {
+      "id": 18,
+      "scene": "Rehearsals",
+      "character": "Buster Moon",
+      "english": "Don't let anyone or anything stand in the way of your dreams.",
+      "japanese": "誰にも何にも夢の邪魔をさせるな。"
+    },
+    {
+      "id": 19,
+      "scene": "Rehearsals",
+      "character": "Rosita",
+      "english": "I can do this. I can really do this.",
+      "japanese": "私にはできる。本当にできる。"
+    },
+    {
+      "id": 20,
+      "scene": "Rehearsals",
+      "character": "Gunter",
+      "english": "Feel the music! Let it flow through you!",
+      "japanese": "音楽を感じて！体を流れさせて！"
+    },
+    {
+      "id": 21,
+      "scene": "Theater Crisis",
+      "character": "Eddie",
+      "english": "Buster, the theater is falling apart. What are we going to do?",
+      "japanese": "バスター、劇場が崩れかけてる。どうするんだ？"
+    },
+    {
+      "id": 22,
+      "scene": "Theater Crisis",
+      "character": "Buster Moon",
+      "english": "I know things look bad, but I'm not giving up. I never give up.",
+      "japanese": "状況が悪いのは分かってる。でも諦めない。僕は絶対に諦めない。"
+    },
+    {
+      "id": 23,
+      "scene": "Johnny's Conflict",
+      "character": "Johnny",
+      "english": "Music is my dream, Dad. Please try to understand.",
+      "japanese": "音楽が僕の夢なんだ、父さん。理解しようとしてよ。"
+    },
+    {
+      "id": 24,
+      "scene": "Johnny's Conflict",
+      "character": "Johnny",
+      "english": "I'm sorry I let you down.",
+      "japanese": "がっかりさせてごめんなさい。"
+    },
+    {
+      "id": 25,
+      "scene": "Ash's Song",
+      "character": "Ash",
+      "english": "Set it all free. Set it all free.",
+      "japanese": "すべてを解き放て。すべてを自由に。"
+    },
+    {
+      "id": 26,
+      "scene": "Meena Overcomes Fear",
+      "character": "Buster Moon",
+      "english": "Meena, you have the most beautiful voice I've ever heard. Don't hide it.",
+      "japanese": "ミーナ、君の声は今まで聞いた中で一番美しい。隠さないで。"
+    },
+    {
+      "id": 27,
+      "scene": "Meena Overcomes Fear",
+      "character": "Meena",
+      "english": "I'm ready. I can do this.",
+      "japanese": "準備できた。私にはできる。"
+    },
+    {
+      "id": 28,
+      "scene": "Final Performance",
+      "character": "Buster Moon",
+      "english": "Ladies and gentlemen, welcome to the Moon Theater!",
+      "japanese": "紳士淑女の皆様、ムーンシアターへようこそ！"
+    },
+    {
+      "id": 29,
+      "scene": "Final Performance",
+      "character": "Rosita",
+      "english": "This is my moment. Our moment.",
+      "japanese": "これが私の瞬間。私たちの瞬間。"
+    },
+    {
+      "id": 30,
+      "scene": "Final Performance",
+      "character": "Johnny",
+      "english": "I'm still standing, better than I ever did.",
+      "japanese": "僕はまだ立っている、以前よりもっと強く。"
+    },
+    {
+      "id": 31,
+      "scene": "Ending",
+      "character": "Buster Moon",
+      "english": "You know what's great about hitting rock bottom? There's only one way left to go, and that's up!",
+      "japanese": "どん底に落ちることの素晴らしさを知ってるか？残された道は一つだけ、上に行くことだ！"
+    },
+    {
+      "id": 32,
+      "scene": "Ending",
+      "character": "Nana Noodleman",
+      "english": "That was... magnificent.",
+      "japanese": "それは...見事だった。"
+    },
+    {
+      "id": 33,
+      "scene": "Ending",
+      "character": "Big Daddy",
+      "english": "That's my son up there.",
+      "japanese": "あそこにいるのは俺の息子だ。"
+    },
+    {
+      "id": 34,
+      "scene": "Ending",
+      "character": "Buster Moon",
+      "english": "When you've reached the bottom, the only way is up!",
+      "japanese": "底に着いたら、あとは上に行くだけだ！"
+    },
+    {
+      "id": 35,
+      "scene": "Motivational",
+      "character": "Buster Moon",
+      "english": "Every great dream begins with a dreamer.",
+      "japanese": "すべての偉大な夢は、夢見る人から始まる。"
+    }
+  ]
+}
