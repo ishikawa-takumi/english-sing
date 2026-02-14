@@ -1,6 +1,6 @@
 import html
 import json
-import math
+import time
 from pathlib import Path
 
 import streamlit as st
@@ -80,19 +80,6 @@ def filter_dialogues(dialogues, search_query):
         for item in dialogues
         if query in item["english"].lower() or query in item["japanese"]
     ]
-
-
-def paginate_dialogues(dialogues, page_size, page):
-    """Return one page of dialogues and paging metadata."""
-    total = len(dialogues)
-    if total == 0:
-        return [], 1, 0, 0, 1
-
-    total_pages = max(1, math.ceil(total / page_size))
-    safe_page = min(max(1, page), total_pages)
-    start_idx = (safe_page - 1) * page_size
-    end_idx = min(start_idx + page_size, total)
-    return dialogues[start_idx:end_idx], total_pages, start_idx, end_idx, safe_page
 
 
 def apply_custom_style():
@@ -431,7 +418,7 @@ def main():
     filter_signature = (selected_scene, search_query.strip().lower(), len(filtered_dialogues))
     if st.session_state.get("filter_signature") != filter_signature:
         st.session_state["filter_signature"] = filter_signature
-        st.session_state["page_num"] = 1
+        st.session_state["visible_count"] = min(1, len(filtered_dialogues))
 
     st.markdown(
         (
@@ -447,37 +434,16 @@ def main():
         st.info("No lines match your search in this script.")
         return
 
-    pager_col_1, pager_col_2, pager_col_3 = st.columns([1, 1, 2], gap="small")
-    with pager_col_1:
-        page_size = st.selectbox("Lines / page", [40, 80, 120, 200], index=1, key="page_size")
+    visible_count = int(st.session_state.get("visible_count", min(1, len(filtered_dialogues))))
+    visible_count = min(max(1, visible_count), len(filtered_dialogues))
+    visible_dialogues = filtered_dialogues[:visible_count]
 
-    paged_dialogues, total_pages, start_idx, end_idx, safe_page = paginate_dialogues(
-        filtered_dialogues,
-        page_size,
-        int(st.session_state.get("page_num", 1)),
-    )
-
-    with pager_col_2:
-        page_num = st.number_input(
-            "Page",
-            min_value=1,
-            max_value=total_pages,
-            value=safe_page,
-            step=1,
-            key="page_num",
-        )
-
-    with pager_col_3:
-        st.caption(
-            f"Showing lines {start_idx + 1}-{end_idx} of {len(filtered_dialogues)}"
-        )
+    st.caption(f"Showing lines 1-{visible_count} of {len(filtered_dialogues)}")
 
     with st.container(height=760, border=True):
         previous_scene = None
-        if selected_scene == "All Scripts" and start_idx > 0:
-            previous_scene = filtered_dialogues[start_idx - 1]["scene"]
 
-        for dialogue in paged_dialogues:
+        for dialogue in visible_dialogues:
             if selected_scene == "All Scripts" and dialogue["scene"] != previous_scene:
                 st.markdown(
                     (
@@ -492,6 +458,20 @@ def main():
             st.markdown("<div class='line-row'>", unsafe_allow_html=True)
             render_line(dialogue)
             st.markdown("<div class='line-divider'></div></div>", unsafe_allow_html=True)
+
+    if visible_count < len(filtered_dialogues):
+        # Start with true line-by-line loading, then widen batch size for performance.
+        if visible_count < 20:
+            step = 1
+        elif visible_count < 120:
+            step = 10
+        else:
+            step = 40
+
+        st.caption("Loading more lines automatically...")
+        time.sleep(0.05)
+        st.session_state["visible_count"] = min(len(filtered_dialogues), visible_count + step)
+        st.rerun()
 
 
 if __name__ == "__main__":
