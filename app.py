@@ -41,6 +41,8 @@ def get_line_language(dialogue_id):
 def toggle_line_language(dialogue_id):
     key = line_state_key(dialogue_id)
     st.session_state[key] = not st.session_state.get(key, False)
+    # Pause background loading while the user is actively reviewing lines.
+    st.session_state["auto_load_enabled"] = False
 
 
 def character_initial(character_name):
@@ -360,9 +362,13 @@ def render_line(dialogue):
             ),
             unsafe_allow_html=True,
         )
-        if st.button(line_text, key=f"line_toggle_{dialogue['id']}", use_container_width=True):
-            toggle_line_language(dialogue["id"])
-            st.rerun()
+        st.button(
+            line_text,
+            key=f"line_toggle_{dialogue['id']}",
+            use_container_width=True,
+            on_click=toggle_line_language,
+            args=(dialogue["id"],),
+        )
 
 
 def main():
@@ -419,6 +425,7 @@ def main():
     if st.session_state.get("filter_signature") != filter_signature:
         st.session_state["filter_signature"] = filter_signature
         st.session_state["visible_count"] = min(1, len(filtered_dialogues))
+        st.session_state["auto_load_enabled"] = True
 
     st.markdown(
         (
@@ -460,18 +467,17 @@ def main():
             st.markdown("<div class='line-divider'></div></div>", unsafe_allow_html=True)
 
     if visible_count < len(filtered_dialogues):
-        # Start with true line-by-line loading, then widen batch size for performance.
-        if visible_count < 20:
-            step = 1
-        elif visible_count < 120:
-            step = 10
+        auto_load_enabled = st.session_state.get("auto_load_enabled", True)
+        if not auto_load_enabled:
+            st.caption("Auto-load paused while you review lines.")
+            if st.button("Resume auto-load", use_container_width=True, key="resume_auto_load"):
+                st.session_state["auto_load_enabled"] = True
+                st.rerun()
         else:
-            step = 40
-
-        st.caption("Loading more lines automatically...")
-        time.sleep(0.05)
-        st.session_state["visible_count"] = min(len(filtered_dialogues), visible_count + step)
-        st.rerun()
+            st.caption("Loading more lines automatically...")
+            time.sleep(0.03)
+            st.session_state["visible_count"] = min(len(filtered_dialogues), visible_count + 1)
+            st.rerun()
 
 
 if __name__ == "__main__":
