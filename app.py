@@ -223,19 +223,6 @@ def apply_custom_style():
             text-transform: uppercase;
         }
 
-        .play-icon {
-            width: 16px;
-            height: 16px;
-            border-radius: 999px;
-            background: #95a3b9;
-            color: #ffffff;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 0.47rem;
-            padding-left: 2px;
-        }
-
         .lang-chip {
             margin-left: 0.1rem;
             border-radius: 999px;
@@ -250,6 +237,20 @@ def apply_custom_style():
         .line-divider {
             border-bottom: 1px solid #edf2f8;
             margin-top: 0.14rem;
+        }
+
+        .scene-break {
+            border-top: 1px solid #dde6f3;
+            margin: 0.24rem 0 0.38rem;
+            padding-top: 0.35rem;
+        }
+
+        .scene-break-name {
+            color: #496383;
+            font-size: 0.73rem;
+            font-weight: 700;
+            letter-spacing: 0.45px;
+            text-transform: uppercase;
         }
 
         div[data-testid="stButton"] > button {
@@ -275,26 +276,35 @@ def apply_custom_style():
             background: transparent;
         }
 
-        div[data-testid="stButton"] > button:focus {
-            outline: none;
-            box-shadow: none;
+        div[data-testid="stButton"] > button:focus-visible {
+            outline: 2px solid #5f7390;
+            outline-offset: 2px;
+            border-radius: 6px;
             color: #10223d;
         }
 
         [data-testid="stSelectbox"] label,
-        [data-testid="stTextInput"] label {
+        [data-testid="stTextInput"] label,
+        [data-testid="stNumberInput"] label {
             color: #4a5f7c !important;
             font-weight: 600;
             font-size: 0.84rem !important;
         }
 
         [data-testid="stSelectbox"] div[data-baseweb="select"] > div,
-        [data-testid="stTextInput"] input {
+        [data-testid="stTextInput"] input,
+        [data-testid="stNumberInput"] input {
             background: #ffffff !important;
             border: 1px solid #ccd6e4 !important;
             border-radius: 8px !important;
             color: #1f2d43 !important;
             min-height: 2.15rem;
+        }
+
+        [data-testid="stTextInput"] input:focus,
+        [data-testid="stNumberInput"] input:focus {
+            border-color: #5f7390 !important;
+            box-shadow: 0 0 0 2px rgba(95, 115, 144, 0.22) !important;
         }
 
         @media (max-width: 900px) {
@@ -358,7 +368,6 @@ def render_line(dialogue):
             (
                 "<div class='speaker-row'>"
                 f"<span class='speaker-name'>{speaker}</span>"
-                "<span class='play-icon'>&#9654;</span>"
                 f"<span class='lang-chip'>{language}</span>"
                 "</div>"
             ),
@@ -464,7 +473,22 @@ def main():
         )
 
     with st.container(height=760, border=True):
+        previous_scene = None
+        if selected_scene == "All Scripts" and start_idx > 0:
+            previous_scene = filtered_dialogues[start_idx - 1]["scene"]
+
         for dialogue in paged_dialogues:
+            if selected_scene == "All Scripts" and dialogue["scene"] != previous_scene:
+                st.markdown(
+                    (
+                        "<div class='scene-break'>"
+                        f"<span class='scene-break-name'>{html.escape(dialogue['scene'])}</span>"
+                        "</div>"
+                    ),
+                    unsafe_allow_html=True,
+                )
+            previous_scene = dialogue["scene"]
+
             st.markdown("<div class='line-row'>", unsafe_allow_html=True)
             render_line(dialogue)
             st.markdown("<div class='line-divider'></div></div>", unsafe_allow_html=True)
