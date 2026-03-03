@@ -271,7 +271,7 @@ def apply_custom_style():
             justify-content: center;
             font-size: 0.95rem;
             font-weight: 800;
-            margin-top: 0.06rem;
+            flex-shrink: 0;
         }
 
         .speaker-row {
@@ -458,6 +458,7 @@ def apply_custom_style():
         @media (max-width: 900px) {
             [data-testid="stMainBlockContainer"] {
                 padding-top: 0.5rem;
+                max-width: 100% !important;
             }
             .app-title {
                 font-size: 1.4rem;
@@ -480,6 +481,53 @@ def apply_custom_style():
             }
             .stats-bar {
                 gap: 0.8rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            [data-testid="stVerticalBlockBorderWrapper"] {
+                height: auto !important;
+                padding: 0.3rem 0.5rem 0.5rem;
+            }
+            [data-testid="stMainBlockContainer"] {
+                max-width: 100% !important;
+                padding-left: 0.75rem;
+                padding-right: 0.75rem;
+            }
+            .app-title {
+                font-size: 1.25rem;
+            }
+            .logo-badge {
+                width: 34px;
+                height: 34px;
+                font-size: 1rem;
+            }
+            .avatar {
+                width: 30px;
+                height: 30px;
+                font-size: 0.8rem;
+                border-radius: 8px;
+            }
+            .stat-number {
+                font-size: 1rem;
+            }
+            .stat-label {
+                font-size: 0.65rem;
+            }
+            .stats-bar {
+                gap: 0.6rem;
+            }
+            .scene-intro {
+                padding: 0.5rem 0.65rem;
+            }
+            .idiom-card {
+                padding: 0.4rem 0.55rem;
+            }
+            [data-testid="stNumberInput"] button {
+                min-height: 2.75rem;
+            }
+            div[data-testid="stButton"] > button {
+                min-height: 2.75rem;
             }
         }
         </style>
@@ -529,59 +577,53 @@ def render_line(dialogue):
     speaker = dialogue["character"]
     fg, bg = get_char_colors(speaker)
 
-    avatar_col, content_col = st.columns([0.6, 9.4], gap="small")
-    with avatar_col:
+    idiom_badge = ""
+    if idioms:
+        n = len(idioms)
+        word = "idiom" if n == 1 else "idioms"
+        idiom_badge = f"<span class='idiom-count-badge'>{n} {word}</span>"
+
+    st.markdown(
+        f"<div class='speaker-row'>"
+        f"<div class='avatar' style='background:{bg};color:{fg};'>"
+        f"{html.escape(character_initial(speaker))}</div>"
+        f"<span class='speaker-name' style='color:{fg};'>{html.escape(speaker)}</span>"
+        f"<span class='lang-chip {lang_class}'>{language}</span>"
+        f"{idiom_badge}"
+        f"</div>",
+        unsafe_allow_html=True,
+    )
+
+    # Show text with underlined idioms (EN mode) or plain Japanese
+    if language == "EN" and idioms:
+        highlighted = underline_idioms_in_text(dialogue["english"], idioms)
         st.markdown(
-            f"<div class='avatar' style='background:{bg};color:{fg};'>"
-            f"{html.escape(character_initial(speaker))}</div>",
+            f"<div style='font-size:0.91rem;line-height:1.4;font-weight:500;"
+            f"font-family:Inter,Noto Sans JP,sans-serif;margin-bottom:0.1rem;'>"
+            f"{highlighted}</div>",
             unsafe_allow_html=True,
         )
-    with content_col:
-        idiom_badge = ""
-        if idioms:
-            n = len(idioms)
-            word = "idiom" if n == 1 else "idioms"
-            idiom_badge = f"<span class='idiom-count-badge'>{n} {word}</span>"
+        # Toggle button (smaller, just for switching)
+        if st.button(
+            "JP",
+            key=f"toggle_{dialogue['id']}",
+            help="Switch to Japanese",
+        ):
+            toggle_line_language(dialogue["id"])
+            st.rerun()
+    else:
+        if st.button(
+            line_text,
+            key=f"line_toggle_{dialogue['id']}",
+            use_container_width=True,
+        ):
+            toggle_line_language(dialogue["id"])
+            st.rerun()
 
-        st.markdown(
-            f"<div class='speaker-row'>"
-            f"<span class='speaker-name' style='color:{fg};'>{html.escape(speaker)}</span>"
-            f"<span class='lang-chip {lang_class}'>{language}</span>"
-            f"{idiom_badge}"
-            f"</div>",
-            unsafe_allow_html=True,
-        )
-
-        # Show text with underlined idioms (EN mode) or plain Japanese
-        if language == "EN" and idioms:
-            highlighted = underline_idioms_in_text(dialogue["english"], idioms)
-            st.markdown(
-                f"<div style='font-size:0.91rem;line-height:1.4;font-weight:500;"
-                f"font-family:Inter,Noto Sans JP,sans-serif;margin-bottom:0.1rem;'>"
-                f"{highlighted}</div>",
-                unsafe_allow_html=True,
-            )
-            # Toggle button (smaller, just for switching)
-            if st.button(
-                "JP",
-                key=f"toggle_{dialogue['id']}",
-                help="Switch to Japanese",
-            ):
-                toggle_line_language(dialogue["id"])
-                st.rerun()
-        else:
-            if st.button(
-                line_text,
-                key=f"line_toggle_{dialogue['id']}",
-                use_container_width=True,
-            ):
-                toggle_line_language(dialogue["id"])
-                st.rerun()
-
-        # Expandable idiom section
-        if idioms:
-            with st.expander(f"View {len(idioms)} idiom{'s' if len(idioms) > 1 else ''}"):
-                render_idioms(idioms)
+    # Expandable idiom section
+    if idioms:
+        with st.expander(f"View {len(idioms)} idiom{'s' if len(idioms) > 1 else ''}"):
+            render_idioms(idioms)
 
 
 def main():
@@ -633,7 +675,7 @@ def main():
     )
 
     # Controls
-    ctrl1, ctrl2, ctrl3 = st.columns([1.2, 1.8, 0.6], gap="small")
+    ctrl1, ctrl2 = st.columns([1, 1.5], gap="small")
     with ctrl1:
         selected_scene = st.selectbox("Scene", script_options, index=0)
     with ctrl2:
@@ -641,8 +683,7 @@ def main():
             "Search",
             placeholder="Search lines, idioms, meanings...",
         )
-    with ctrl3:
-        idioms_only = st.checkbox("Idioms only", value=False)
+    idioms_only = st.checkbox("Idioms only", value=False)
 
     # Filter
     if selected_scene == "All Scenes":
@@ -684,7 +725,7 @@ def main():
         return
 
     # Pagination
-    pager1, pager2, pager3 = st.columns([1, 1, 2], gap="small")
+    pager1, pager2, pager3 = st.columns([1, 1, 1], gap="small")
     with pager1:
         page_size = st.selectbox(
             "Lines / page", [20, 40, 80, 120], index=1, key="page_size"
