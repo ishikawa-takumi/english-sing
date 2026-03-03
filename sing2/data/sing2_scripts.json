@@ -1,0 +1,4137 @@
+{
+  "movie": "Sing 2 (2021)",
+  "dialogues": [
+    {
+      "id": 1,
+      "scene": "Opening - Moon Theater Show",
+      "character": "Buster Moon",
+      "english": "Okay, everyone, this is it! Let's bring the house down!",
+      "japanese": "さあ、みんな、これだ！会場を沸かせよう！",
+      "idioms": [
+        {
+          "expression": "bring the house down",
+          "meaning": "To make an audience react with great enthusiasm, especially by applauding",
+          "meaning_ja": "観客を大いに沸かせる、大喝采を浴びる"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "scene": "Opening - Moon Theater Show",
+      "character": "Rosita",
+      "english": "I have butterflies in my stomach every single time.",
+      "japanese": "毎回、緊張でお腹がドキドキするわ。",
+      "idioms": [
+        {
+          "expression": "butterflies in my stomach",
+          "meaning": "A nervous feeling in the stomach, usually before something important",
+          "meaning_ja": "緊張して胸がドキドキする、不安で落ち着かない"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "scene": "Opening - Moon Theater Show",
+      "character": "Gunter",
+      "english": "Do not worry, Rosita! We were born to do this!",
+      "japanese": "心配しないで、ロジータ！僕たちはこのために生まれてきたんだ！",
+      "idioms": [
+        {
+          "expression": "born to do this",
+          "meaning": "Naturally talented or destined for something",
+          "meaning_ja": "このために生まれてきた、天職である"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "scene": "Opening - Moon Theater Show",
+      "character": "Johnny",
+      "english": "I've been working on this number day and night. I really hope it pays off.",
+      "japanese": "この曲を昼も夜も練習してきたんだ。報われるといいな。",
+      "idioms": [
+        {
+          "expression": "day and night",
+          "meaning": "All the time, without stopping",
+          "meaning_ja": "昼も夜も、四六時中"
+        },
+        {
+          "expression": "pays off",
+          "meaning": "To yield good results after effort or investment",
+          "meaning_ja": "努力が報われる、成果が出る"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "scene": "Opening - Moon Theater Show",
+      "character": "Ash",
+      "english": "You guys are going to be great. Just go out there and give it your all.",
+      "japanese": "みんな最高になるよ。全力を出し切って。",
+      "idioms": [
+        {
+          "expression": "give it your all",
+          "meaning": "To put in maximum effort",
+          "meaning_ja": "全力を尽くす、持てる力をすべて出す"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "scene": "Opening - Moon Theater Show",
+      "character": "Meena",
+      "english": "I just hope I don't freeze up on stage again.",
+      "japanese": "また舞台で固まらないといいけど。",
+      "idioms": [
+        {
+          "expression": "freeze up",
+          "meaning": "To suddenly become unable to move or speak due to fear or nervousness",
+          "meaning_ja": "緊張で固まる、動けなくなる"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "scene": "Opening - Moon Theater Show",
+      "character": "Buster Moon",
+      "english": "Meena, you have nothing to worry about. You always come through when it counts.",
+      "japanese": "ミーナ、心配することないよ。君はいつも肝心な時にやり遂げる。",
+      "idioms": [
+        {
+          "expression": "come through",
+          "meaning": "To succeed or deliver results when needed",
+          "meaning_ja": "やり遂げる、期待に応える"
+        },
+        {
+          "expression": "when it counts",
+          "meaning": "At the most important moment",
+          "meaning_ja": "肝心な時に、大事な場面で"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "scene": "Opening - Moon Theater Show",
+      "character": "Miss Crawly",
+      "english": "Mr. Moon! The curtain goes up in five minutes!",
+      "japanese": "ムーンさん！開演まであと5分です！",
+      "idioms": [
+        {
+          "expression": "the curtain goes up",
+          "meaning": "The show is about to begin",
+          "meaning_ja": "幕が上がる、ショーが始まる"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "scene": "Opening - Moon Theater Show",
+      "character": "Buster Moon",
+      "english": "All right, places everyone! It's showtime! Break a leg!",
+      "japanese": "よし、みんな配置について！ショーの時間だ！成功を祈る！",
+      "idioms": [
+        {
+          "expression": "break a leg",
+          "meaning": "A way to wish someone good luck, especially before a performance",
+          "meaning_ja": "（舞台の前に）成功を祈る、頑張って"
+        },
+        {
+          "expression": "showtime",
+          "meaning": "The moment when something important is about to happen",
+          "meaning_ja": "本番の時間、いよいよ始まる"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "scene": "Opening - Moon Theater Show",
+      "character": "Gunter",
+      "english": "Let's knock 'em dead!",
+      "japanese": "みんなを圧倒しよう！",
+      "idioms": [
+        {
+          "expression": "knock 'em dead",
+          "meaning": "To greatly impress an audience",
+          "meaning_ja": "観客を圧倒する、大成功させる"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "scene": "Opening - Moon Theater Show",
+      "character": "Buster Moon",
+      "english": "The show was a huge hit. We had them eating out of our hands.",
+      "japanese": "ショーは大成功だった。観客を虜にしたよ。",
+      "idioms": [
+        {
+          "expression": "a huge hit",
+          "meaning": "A great success",
+          "meaning_ja": "大成功、大ヒット"
+        },
+        {
+          "expression": "eating out of our hands",
+          "meaning": "Completely under our influence or control; very eager to please",
+          "meaning_ja": "手のひらの上で転がす、完全に魅了する"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "scene": "Opening - Moon Theater Show",
+      "character": "Nana Noodleman",
+      "english": "Not bad, Mr. Moon. But you still have a long way to go.",
+      "japanese": "悪くないわ、ムーンさん。でもまだまだ先は長いわよ。",
+      "idioms": [
+        {
+          "expression": "a long way to go",
+          "meaning": "Much more progress or improvement is needed",
+          "meaning_ja": "まだまだ先は長い、道のりは遠い"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "scene": "Scouting Trip to Redshore City",
+      "character": "Buster Moon",
+      "english": "I want to take our show to the next level. We need to think big!",
+      "japanese": "僕たちのショーをもう一段上に持っていきたい。大きく考えなきゃ！",
+      "idioms": [
+        {
+          "expression": "take it to the next level",
+          "meaning": "To improve or advance something significantly",
+          "meaning_ja": "次のレベルに引き上げる、大きく飛躍させる"
+        },
+        {
+          "expression": "think big",
+          "meaning": "To have ambitious plans or ideas",
+          "meaning_ja": "大きく考える、野心的な目標を持つ"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "scene": "Scouting Trip to Redshore City",
+      "character": "Eddie",
+      "english": "Buster, are you out of your mind? Redshore City is the big leagues!",
+      "japanese": "バスター、正気か？レッドショア・シティは大舞台だぞ！",
+      "idioms": [
+        {
+          "expression": "out of your mind",
+          "meaning": "Crazy, not thinking clearly",
+          "meaning_ja": "正気じゃない、おかしくなった"
+        },
+        {
+          "expression": "the big leagues",
+          "meaning": "The highest level of competition or achievement",
+          "meaning_ja": "大舞台、一流の世界"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "scene": "Scouting Trip to Redshore City",
+      "character": "Buster Moon",
+      "english": "Exactly! That's where we belong. We have to shoot for the stars.",
+      "japanese": "その通り！そこが僕たちの居場所だ。星を目指さなきゃ。",
+      "idioms": [
+        {
+          "expression": "shoot for the stars",
+          "meaning": "To aim for the highest possible goal",
+          "meaning_ja": "高い目標を目指す、星を射る"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "scene": "Scouting Trip to Redshore City",
+      "character": "Rosita",
+      "english": "But what about our families? We can't just up and leave.",
+      "japanese": "でも家族はどうするの？急に出て行くわけにはいかないわ。",
+      "idioms": [
+        {
+          "expression": "up and leave",
+          "meaning": "To suddenly depart without much planning",
+          "meaning_ja": "急に出て行く、突然いなくなる"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "scene": "Scouting Trip to Redshore City",
+      "character": "Gunter",
+      "english": "Come on, Rosita! This is a once-in-a-lifetime opportunity! You can't pass it up!",
+      "japanese": "ロジータ、行こうよ！一生に一度のチャンスだよ！見逃しちゃダメだ！",
+      "idioms": [
+        {
+          "expression": "once-in-a-lifetime",
+          "meaning": "So special that it is unlikely to happen again",
+          "meaning_ja": "一生に一度の、めったにない"
+        },
+        {
+          "expression": "pass it up",
+          "meaning": "To let an opportunity go by without taking it",
+          "meaning_ja": "見逃す、チャンスを逃す"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "scene": "Scouting Trip to Redshore City",
+      "character": "Johnny",
+      "english": "I'm in. I've been itching to prove myself on a bigger stage.",
+      "japanese": "僕は行くよ。もっと大きな舞台で自分を証明したくてうずうずしてたんだ。",
+      "idioms": [
+        {
+          "expression": "itching to",
+          "meaning": "Very eager or impatient to do something",
+          "meaning_ja": "〜したくてうずうずしている、待ちきれない"
+        },
+        {
+          "expression": "prove myself",
+          "meaning": "To demonstrate one's ability or worth",
+          "meaning_ja": "自分の実力を証明する"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "scene": "Scouting Trip to Redshore City",
+      "character": "Ash",
+      "english": "Count me in. I could use a change of scenery.",
+      "japanese": "私も参加するわ。気分転換が必要だったの。",
+      "idioms": [
+        {
+          "expression": "count me in",
+          "meaning": "Include me; I want to participate",
+          "meaning_ja": "私も入れて、参加するよ"
+        },
+        {
+          "expression": "a change of scenery",
+          "meaning": "A move to a different environment or surroundings",
+          "meaning_ja": "気分転換、環境を変えること"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "scene": "Scouting Trip to Redshore City",
+      "character": "Meena",
+      "english": "I guess I'm on board too. No turning back now.",
+      "japanese": "私も賛成するわ。もう後には引けないね。",
+      "idioms": [
+        {
+          "expression": "on board",
+          "meaning": "In agreement; willing to participate",
+          "meaning_ja": "賛成して、参加する気持ちで"
+        },
+        {
+          "expression": "no turning back",
+          "meaning": "It is too late to change the decision or direction",
+          "meaning_ja": "もう後戻りはできない"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "scene": "Crystal Tower Audition",
+      "character": "Buster Moon",
+      "english": "This is our shot. We have to make a lasting impression.",
+      "japanese": "これが僕たちのチャンスだ。強烈な印象を残さなきゃ。",
+      "idioms": [
+        {
+          "expression": "our shot",
+          "meaning": "Our chance or opportunity",
+          "meaning_ja": "私たちのチャンス、好機"
+        },
+        {
+          "expression": "make a lasting impression",
+          "meaning": "To create a memorable effect on someone",
+          "meaning_ja": "強い印象を残す、忘れられない印象を与える"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "scene": "Crystal Tower Audition",
+      "character": "Suki",
+      "english": "Mr. Crystal is a tough nut to crack. He turns down almost everyone.",
+      "japanese": "クリスタル氏は手強いわよ。ほとんど全員を断るの。",
+      "idioms": [
+        {
+          "expression": "a tough nut to crack",
+          "meaning": "A person or problem that is very difficult to deal with",
+          "meaning_ja": "手強い相手、難しい問題"
+        },
+        {
+          "expression": "turns down",
+          "meaning": "To reject or refuse",
+          "meaning_ja": "断る、却下する"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "scene": "Crystal Tower Audition",
+      "character": "Buster Moon",
+      "english": "Don't worry. We'll win him over with our talent.",
+      "japanese": "心配しないで。才能で彼を説得してみせるよ。",
+      "idioms": [
+        {
+          "expression": "win him over",
+          "meaning": "To persuade someone to support you or agree with you",
+          "meaning_ja": "説得する、味方につける"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "scene": "Crystal Tower Audition",
+      "character": "Jimmy Crystal",
+      "english": "So, you're the little theater troupe from the sticks. Let's see what you've got.",
+      "japanese": "それで、君たちが田舎の小さな劇団か。何ができるか見せてもらおう。",
+      "idioms": [
+        {
+          "expression": "from the sticks",
+          "meaning": "From a rural or unsophisticated area",
+          "meaning_ja": "田舎から来た、地方出身の"
+        },
+        {
+          "expression": "what you've got",
+          "meaning": "What abilities or skills you have",
+          "meaning_ja": "何ができるか、実力を"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "scene": "Crystal Tower Audition",
+      "character": "Buster Moon",
+      "english": "Thank you, Mr. Crystal. We've put our hearts and souls into this performance.",
+      "japanese": "ありがとうございます、クリスタルさん。この公演に心血を注いできました。",
+      "idioms": [
+        {
+          "expression": "put our hearts and souls into",
+          "meaning": "To devote all of one's energy and passion to something",
+          "meaning_ja": "心血を注ぐ、全身全霊を込める"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "scene": "Crystal Tower Audition",
+      "character": "Jimmy Crystal",
+      "english": "Hmm. Not bad, but it's nothing to write home about. I've seen better.",
+      "japanese": "ふむ。悪くないが、特筆すべきことはない。もっといいものを見てきた。",
+      "idioms": [
+        {
+          "expression": "nothing to write home about",
+          "meaning": "Not especially remarkable or exciting",
+          "meaning_ja": "特筆すべきことはない、たいしたことない"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "scene": "Crystal Tower Audition",
+      "character": "Buster Moon",
+      "english": "Wait! What if I told you we could get Clay Calloway to be in our show?",
+      "japanese": "待ってください！クレイ・キャロウェイをショーに出せると言ったら？",
+      "idioms": []
+    },
+    {
+      "id": 28,
+      "scene": "Crystal Tower Audition",
+      "character": "Jimmy Crystal",
+      "english": "Clay Calloway? Now you're talking! That changes the whole ball game.",
+      "japanese": "クレイ・キャロウェイ？それは話が違う！状況が完全に変わるな。",
+      "idioms": [
+        {
+          "expression": "now you're talking",
+          "meaning": "Used to express enthusiasm when someone says something agreeable",
+          "meaning_ja": "それでこそだ、いいぞ"
+        },
+        {
+          "expression": "changes the whole ball game",
+          "meaning": "Completely changes the situation",
+          "meaning_ja": "状況を一変させる、ゲームチェンジャーだ"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "scene": "Crystal Tower Audition",
+      "character": "Suki",
+      "english": "Buster! What are you doing? You're getting in over your head!",
+      "japanese": "バスター！何してるの？自分の手に負えないことを始めてるわよ！",
+      "idioms": [
+        {
+          "expression": "in over your head",
+          "meaning": "Involved in something too difficult to handle",
+          "meaning_ja": "手に負えない状況に入り込む、能力を超えた"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "scene": "Crystal Tower Audition",
+      "character": "Buster Moon",
+      "english": "Trust me. I'll figure it out. I always land on my feet.",
+      "japanese": "信じて。なんとかするよ。僕はいつもうまく切り抜けるんだ。",
+      "idioms": [
+        {
+          "expression": "figure it out",
+          "meaning": "To find a solution to a problem",
+          "meaning_ja": "なんとかする、解決策を見つける"
+        },
+        {
+          "expression": "land on my feet",
+          "meaning": "To recover well from a difficult situation",
+          "meaning_ja": "うまく切り抜ける、困難からうまく立ち直る"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "scene": "Crystal Tower Audition",
+      "character": "Jimmy Crystal",
+      "english": "You've got yourself a deal, Moon. But don't let me down.",
+      "japanese": "契約成立だ、ムーン。だが失望させるなよ。",
+      "idioms": [
+        {
+          "expression": "you've got yourself a deal",
+          "meaning": "I agree to the arrangement",
+          "meaning_ja": "契約成立だ、取引に合意する"
+        },
+        {
+          "expression": "let me down",
+          "meaning": "To disappoint someone by failing to do what they expected",
+          "meaning_ja": "失望させる、がっかりさせる"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "scene": "Crystal Tower Audition",
+      "character": "Buster Moon",
+      "english": "You won't regret it, sir. We'll blow your mind.",
+      "japanese": "後悔させません。度肝を抜いてみせます。",
+      "idioms": [
+        {
+          "expression": "blow your mind",
+          "meaning": "To amaze or shock someone",
+          "meaning_ja": "度肝を抜く、驚かせる"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "scene": "Crystal Tower Audition",
+      "character": "Eddie",
+      "english": "Buster, you really stuck your neck out back there. Do you even know Clay Calloway?",
+      "japanese": "バスター、さっきは本当に首を突っ込んだな。クレイ・キャロウェイを知ってるのか？",
+      "idioms": [
+        {
+          "expression": "stuck your neck out",
+          "meaning": "To take a risk or put oneself in a vulnerable position",
+          "meaning_ja": "危険を冒す、首を突っ込む"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "scene": "Crystal Tower Audition",
+      "character": "Buster Moon",
+      "english": "Not exactly. But we'll cross that bridge when we come to it.",
+      "japanese": "正確には知らないけど。その時が来たら考えよう。",
+      "idioms": [
+        {
+          "expression": "cross that bridge when we come to it",
+          "meaning": "To deal with a problem only when it actually happens",
+          "meaning_ja": "その時が来たら考える、先のことは後で考える"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "scene": "Settling into Redshore City",
+      "character": "Gunter",
+      "english": "Wow! Look at this place! It's out of this world!",
+      "japanese": "わあ！この場所を見て！この世のものとは思えない！",
+      "idioms": [
+        {
+          "expression": "out of this world",
+          "meaning": "Extremely impressive or enjoyable",
+          "meaning_ja": "この世のものとは思えない、素晴らしい"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "scene": "Settling into Redshore City",
+      "character": "Ash",
+      "english": "It's pretty flashy. Not really my cup of tea, but I can see the appeal.",
+      "japanese": "かなり派手ね。私の好みじゃないけど、魅力は分かるわ。",
+      "idioms": [
+        {
+          "expression": "not my cup of tea",
+          "meaning": "Not something one likes or is interested in",
+          "meaning_ja": "好みではない、趣味に合わない"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "scene": "Settling into Redshore City",
+      "character": "Johnny",
+      "english": "This is the real deal. We're playing with the big boys now.",
+      "japanese": "これが本物だ。一流の人たちと一緒にやるんだ。",
+      "idioms": [
+        {
+          "expression": "the real deal",
+          "meaning": "Something authentic or genuinely impressive",
+          "meaning_ja": "本物、正真正銘の"
+        },
+        {
+          "expression": "playing with the big boys",
+          "meaning": "Competing at the highest level",
+          "meaning_ja": "一流の人たちと張り合う、本格的な世界に入る"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "scene": "Settling into Redshore City",
+      "character": "Rosita",
+      "english": "I just hope we're not biting off more than we can chew.",
+      "japanese": "身の丈に合わないことをしていなければいいけど。",
+      "idioms": [
+        {
+          "expression": "biting off more than we can chew",
+          "meaning": "Trying to do more than one is able to handle",
+          "meaning_ja": "身の丈に合わないことをする、手を広げすぎる"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "scene": "Settling into Redshore City",
+      "character": "Meena",
+      "english": "Everything here is so over the top. I feel like a fish out of water.",
+      "japanese": "ここは何もかも派手すぎる。場違いな気分だわ。",
+      "idioms": [
+        {
+          "expression": "over the top",
+          "meaning": "Excessively elaborate or extravagant",
+          "meaning_ja": "度を越した、大げさすぎる"
+        },
+        {
+          "expression": "a fish out of water",
+          "meaning": "Someone who feels uncomfortable in unfamiliar surroundings",
+          "meaning_ja": "場違いな人、慣れない環境で居心地が悪い"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "scene": "Settling into Redshore City",
+      "character": "Buster Moon",
+      "english": "Come on, everyone! This is our moment in the spotlight. Let's make the most of it!",
+      "japanese": "みんな、行こう！これが僕たちの晴れ舞台だ。最大限に活かそう！",
+      "idioms": [
+        {
+          "expression": "moment in the spotlight",
+          "meaning": "A time of public attention or fame",
+          "meaning_ja": "注目を浴びる時、晴れ舞台"
+        },
+        {
+          "expression": "make the most of it",
+          "meaning": "To use an opportunity to the fullest advantage",
+          "meaning_ja": "最大限に活かす、精一杯利用する"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "scene": "Show Planning - Gunter's Vision",
+      "character": "Gunter",
+      "english": "I have this amazing idea for the show! It came to me out of the blue!",
+      "japanese": "ショーの素晴らしいアイデアがあるんだ！突然ひらめいたんだ！",
+      "idioms": [
+        {
+          "expression": "out of the blue",
+          "meaning": "Unexpectedly, without any warning",
+          "meaning_ja": "突然、思いがけなく"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "scene": "Show Planning - Gunter's Vision",
+      "character": "Buster Moon",
+      "english": "Okay, Gunter, I'm all ears. What's this big idea?",
+      "japanese": "わかった、ガンター、聞いてるよ。その大きなアイデアって何？",
+      "idioms": [
+        {
+          "expression": "I'm all ears",
+          "meaning": "Listening with full attention",
+          "meaning_ja": "全神経を集中して聞いている、洗いざらい聞くよ"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "scene": "Show Planning - Gunter's Vision",
+      "character": "Gunter",
+      "english": "A space-themed show! With aliens and rockets! It'll be off the charts!",
+      "japanese": "宇宙テーマのショー！エイリアンとロケットで！最高にすごいものになるよ！",
+      "idioms": [
+        {
+          "expression": "off the charts",
+          "meaning": "Exceeding all expectations; extraordinary",
+          "meaning_ja": "想像を超えた、規格外の"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "scene": "Show Planning - Gunter's Vision",
+      "character": "Buster Moon",
+      "english": "That's... actually brilliant! Gunter, you hit the nail on the head!",
+      "japanese": "それは...実は素晴らしい！ガンター、まさにその通りだ！",
+      "idioms": [
+        {
+          "expression": "hit the nail on the head",
+          "meaning": "To describe exactly what is right; to be perfectly correct",
+          "meaning_ja": "的を射る、まさにその通り"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "scene": "Show Planning - Gunter's Vision",
+      "character": "Rosita",
+      "english": "A space show? That's a bit far-fetched, don't you think?",
+      "japanese": "宇宙のショー？ちょっと突飛じゃない？",
+      "idioms": [
+        {
+          "expression": "far-fetched",
+          "meaning": "Unlikely and hard to believe",
+          "meaning_ja": "突飛な、ありそうもない"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "scene": "Show Planning - Gunter's Vision",
+      "character": "Gunter",
+      "english": "Nothing is far-fetched when you put your mind to it!",
+      "japanese": "心を込めて取り組めば、突飛なものなんてないよ！",
+      "idioms": [
+        {
+          "expression": "put your mind to it",
+          "meaning": "To concentrate and make a determined effort",
+          "meaning_ja": "心を込めて取り組む、集中して努力する"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "scene": "Show Planning - Gunter's Vision",
+      "character": "Jimmy Crystal",
+      "english": "I like the concept. But it needs star power. Clay Calloway or the show's off.",
+      "japanese": "コンセプトは気に入った。だがスターパワーが必要だ。クレイ・キャロウェイが出なければ中止だ。",
+      "idioms": [
+        {
+          "expression": "star power",
+          "meaning": "The ability of a famous person to attract public attention",
+          "meaning_ja": "スターの魅力、集客力"
+        },
+        {
+          "expression": "the show's off",
+          "meaning": "The show is cancelled",
+          "meaning_ja": "ショーは中止だ"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "scene": "Show Planning - Gunter's Vision",
+      "character": "Buster Moon",
+      "english": "Don't worry, Mr. Crystal. I have it all under control.",
+      "japanese": "ご心配なく、クリスタルさん。すべてコントロールできています。",
+      "idioms": [
+        {
+          "expression": "under control",
+          "meaning": "Being managed successfully",
+          "meaning_ja": "コントロールできている、管理下にある"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "scene": "Show Planning - Gunter's Vision",
+      "character": "Suki",
+      "english": "Buster, you're walking on thin ice with Crystal. He doesn't mess around.",
+      "japanese": "バスター、クリスタル相手に危険な橋を渡ってるわよ。彼は本気よ。",
+      "idioms": [
+        {
+          "expression": "walking on thin ice",
+          "meaning": "In a risky or dangerous situation",
+          "meaning_ja": "危険な橋を渡る、薄氷を踏む思い"
+        },
+        {
+          "expression": "doesn't mess around",
+          "meaning": "Is very serious and does not tolerate mistakes",
+          "meaning_ja": "本気だ、冗談が通じない"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "scene": "Show Planning - Gunter's Vision",
+      "character": "Buster Moon",
+      "english": "I know what I'm doing. We just need to stay the course.",
+      "japanese": "自分が何をしているか分かってるよ。このまま進み続けるだけだ。",
+      "idioms": [
+        {
+          "expression": "stay the course",
+          "meaning": "To continue with a plan despite difficulties",
+          "meaning_ja": "方針を貫く、最後までやり通す"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "scene": "Johnny's Dance Training",
+      "character": "Klaus",
+      "english": "Your dancing is stiff and lifeless! You need to step up your game!",
+      "japanese": "お前のダンスは硬くて生気がない！もっとレベルを上げろ！",
+      "idioms": [
+        {
+          "expression": "step up your game",
+          "meaning": "To improve one's performance or effort",
+          "meaning_ja": "レベルを上げる、もっと頑張る"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "scene": "Johnny's Dance Training",
+      "character": "Johnny",
+      "english": "I'm trying my best! Cut me some slack!",
+      "japanese": "精一杯やってるよ！少しは大目に見てくれ！",
+      "idioms": [
+        {
+          "expression": "trying my best",
+          "meaning": "Making the greatest possible effort",
+          "meaning_ja": "最善を尽くしている、精一杯やっている"
+        },
+        {
+          "expression": "cut me some slack",
+          "meaning": "To be less critical or demanding",
+          "meaning_ja": "大目に見る、少し手加減する"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "scene": "Johnny's Dance Training",
+      "character": "Klaus",
+      "english": "In this business, there's no room for excuses. Shape up or ship out!",
+      "japanese": "この業界では言い訳の余地はない。しっかりしろ、さもなければ出て行け！",
+      "idioms": [
+        {
+          "expression": "no room for excuses",
+          "meaning": "Excuses are not acceptable",
+          "meaning_ja": "言い訳の余地がない"
+        },
+        {
+          "expression": "shape up or ship out",
+          "meaning": "Improve your behavior or leave",
+          "meaning_ja": "しっかりしろ、さもなければ出て行け"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "scene": "Johnny's Dance Training",
+      "character": "Johnny",
+      "english": "I won't give up. I'll get the hang of it eventually.",
+      "japanese": "諦めない。いつかはコツをつかむよ。",
+      "idioms": [
+        {
+          "expression": "give up",
+          "meaning": "To stop trying",
+          "meaning_ja": "諦める、ギブアップする"
+        },
+        {
+          "expression": "get the hang of it",
+          "meaning": "To learn how to do something, especially after practice",
+          "meaning_ja": "コツをつかむ、要領を得る"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "scene": "Johnny's Dance Training",
+      "character": "Nooshy",
+      "english": "Hey! You look like you could use a hand. I'm Nooshy.",
+      "japanese": "ねえ！手助けが必要そうだね。私はヌーシー。",
+      "idioms": [
+        {
+          "expression": "could use a hand",
+          "meaning": "Would benefit from some help",
+          "meaning_ja": "手助けが必要だ、助けがあるとありがたい"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "scene": "Johnny's Dance Training",
+      "character": "Nooshy",
+      "english": "Forget that guy. Dancing is all about letting loose and feeling the rhythm.",
+      "japanese": "あの人のことは忘れて。ダンスはリラックスしてリズムを感じることが全てだよ。",
+      "idioms": [
+        {
+          "expression": "letting loose",
+          "meaning": "To relax and behave freely without restraint",
+          "meaning_ja": "リラックスする、自由に振る舞う"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "scene": "Johnny's Dance Training",
+      "character": "Johnny",
+      "english": "You make it look so easy. I feel like I have two left feet.",
+      "japanese": "簡単そうに見せるね。僕は不器用すぎる気がする。",
+      "idioms": [
+        {
+          "expression": "two left feet",
+          "meaning": "Being very clumsy, especially at dancing",
+          "meaning_ja": "不器用である、特にダンスが下手"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "scene": "Johnny's Dance Training",
+      "character": "Nooshy",
+      "english": "Everyone starts somewhere. You just need to go with the flow.",
+      "japanese": "誰だって最初は初心者だよ。流れに身を任せればいいの。",
+      "idioms": [
+        {
+          "expression": "go with the flow",
+          "meaning": "To relax and accept a situation without trying to control it",
+          "meaning_ja": "流れに身を任せる、成り行きに従う"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "scene": "Johnny's Dance Training",
+      "character": "Johnny",
+      "english": "You know what, you're right. I've been so caught up in trying to be perfect.",
+      "japanese": "そうだね、君の言う通りだ。完璧にしようとして夢中になりすぎてた。",
+      "idioms": [
+        {
+          "expression": "caught up in",
+          "meaning": "So involved in something that you cannot think about anything else",
+          "meaning_ja": "〜に夢中になる、〜にとらわれる"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "scene": "Johnny's Dance Training",
+      "character": "Nooshy",
+      "english": "Now you're getting the hang of it! Just keep at it!",
+      "japanese": "そうそう、コツをつかんできたね！その調子で続けて！",
+      "idioms": [
+        {
+          "expression": "keep at it",
+          "meaning": "To continue doing something with determination",
+          "meaning_ja": "続ける、粘り強くやる"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "scene": "Meena's Romance Challenge",
+      "character": "Buster Moon",
+      "english": "Meena, your role calls for a romantic scene. You need to come out of your shell.",
+      "japanese": "ミーナ、君の役にはロマンチックなシーンがある。殻を破らなきゃ。",
+      "idioms": [
+        {
+          "expression": "come out of your shell",
+          "meaning": "To become less shy and more willing to socialize",
+          "meaning_ja": "殻を破る、打ち解ける"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "scene": "Meena's Romance Challenge",
+      "character": "Meena",
+      "english": "A romantic scene? Oh no, I'm going to make a fool of myself.",
+      "japanese": "ロマンチックなシーン？ああ、恥をかきそう。",
+      "idioms": [
+        {
+          "expression": "make a fool of myself",
+          "meaning": "To do something that makes one look stupid",
+          "meaning_ja": "恥をかく、馬鹿にされる"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "scene": "Meena's Romance Challenge",
+      "character": "Alfonso",
+      "english": "Hi, I'm Alfonso. Looks like we're going to be working side by side.",
+      "japanese": "こんにちは、僕はアルフォンソ。一緒に仕事をすることになりそうだね。",
+      "idioms": [
+        {
+          "expression": "side by side",
+          "meaning": "Together, close to each other",
+          "meaning_ja": "並んで、一緒に"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "scene": "Meena's Romance Challenge",
+      "character": "Meena",
+      "english": "Oh... hi. I'm sorry, I get tongue-tied around new people.",
+      "japanese": "あ...こんにちは。ごめんなさい、初対面の人の前だと言葉に詰まるの。",
+      "idioms": [
+        {
+          "expression": "tongue-tied",
+          "meaning": "Unable to speak because of shyness or nervousness",
+          "meaning_ja": "言葉に詰まる、うまく話せない"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "scene": "Meena's Romance Challenge",
+      "character": "Alfonso",
+      "english": "Don't sweat it. Let's just take it one step at a time.",
+      "japanese": "気にしないで。一歩ずつやっていこう。",
+      "idioms": [
+        {
+          "expression": "don't sweat it",
+          "meaning": "Don't worry about it",
+          "meaning_ja": "気にしないで、心配しないで"
+        },
+        {
+          "expression": "one step at a time",
+          "meaning": "To do things gradually, not rushing",
+          "meaning_ja": "一歩ずつ、焦らずに"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "scene": "Meena's Romance Challenge",
+      "character": "Meena",
+      "english": "I keep second-guessing everything I do on stage.",
+      "japanese": "舞台でやることを全部、疑ってばかりいるの。",
+      "idioms": [
+        {
+          "expression": "second-guessing",
+          "meaning": "To doubt or question a decision after it's been made",
+          "meaning_ja": "後から疑う、判断を迷う"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "scene": "Meena's Romance Challenge",
+      "character": "Alfonso",
+      "english": "You've got talent. Sometimes you just need to take the plunge.",
+      "japanese": "才能があるよ。時には思い切って飛び込むことも必要だ。",
+      "idioms": [
+        {
+          "expression": "take the plunge",
+          "meaning": "To commit to a course of action, especially after hesitation",
+          "meaning_ja": "思い切って飛び込む、決断する"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "scene": "Meena's Romance Challenge",
+      "character": "Meena",
+      "english": "I'll try. But right now, I feel like I'm in way over my head.",
+      "japanese": "やってみるわ。でも今は、完全に手に負えない気がする。",
+      "idioms": [
+        {
+          "expression": "in way over my head",
+          "meaning": "Deeply involved in something too difficult",
+          "meaning_ja": "完全に手に負えない、能力をはるかに超えた"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "scene": "Meena's Romance Challenge",
+      "character": "Buster Moon",
+      "english": "Meena, you have what it takes. Don't sell yourself short.",
+      "japanese": "ミーナ、君には才能がある。自分を過小評価するな。",
+      "idioms": [
+        {
+          "expression": "have what it takes",
+          "meaning": "To have the qualities or abilities necessary for success",
+          "meaning_ja": "必要な才能がある、素質がある"
+        },
+        {
+          "expression": "sell yourself short",
+          "meaning": "To underestimate one's own abilities or worth",
+          "meaning_ja": "自分を過小評価する、自分を安売りする"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "scene": "Meena's Romance Challenge",
+      "character": "Meena",
+      "english": "Okay. I'll give it my best shot.",
+      "japanese": "わかった。全力でやってみるわ。",
+      "idioms": [
+        {
+          "expression": "give it my best shot",
+          "meaning": "To try as hard as one can",
+          "meaning_ja": "全力でやる、精一杯やってみる"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "scene": "Ash Visits Clay Calloway",
+      "character": "Buster Moon",
+      "english": "Ash, you're our best bet to get through to Clay Calloway. He's been off the grid for years.",
+      "japanese": "アッシュ、クレイ・キャロウェイに届くのは君が一番の頼みの綱だ。彼は何年も世間から姿を消している。",
+      "idioms": [
+        {
+          "expression": "best bet",
+          "meaning": "The most likely way to succeed",
+          "meaning_ja": "一番の頼み、最善の策"
+        },
+        {
+          "expression": "get through to",
+          "meaning": "To succeed in communicating with or persuading someone",
+          "meaning_ja": "心に届く、説得する"
+        },
+        {
+          "expression": "off the grid",
+          "meaning": "Living in isolation, away from public life",
+          "meaning_ja": "世間から離れた、隠遁生活の"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "scene": "Ash Visits Clay Calloway",
+      "character": "Ash",
+      "english": "I'll do my best, but he's a tough cookie. He shut everyone out after his wife passed away.",
+      "japanese": "頑張るけど、彼は手強い人よ。奥さんが亡くなってからみんなを拒絶してる。",
+      "idioms": [
+        {
+          "expression": "a tough cookie",
+          "meaning": "A person who is strong-willed and determined",
+          "meaning_ja": "手強い人、タフな人"
+        },
+        {
+          "expression": "shut everyone out",
+          "meaning": "To refuse to interact with others",
+          "meaning_ja": "みんなを拒絶する、心を閉ざす"
+        },
+        {
+          "expression": "passed away",
+          "meaning": "Died (a polite way to say someone died)",
+          "meaning_ja": "亡くなった（丁寧な表現）"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "scene": "Ash Visits Clay Calloway",
+      "character": "Ash",
+      "english": "Mr. Calloway? I'm a huge fan. Your music really speaks to me.",
+      "japanese": "キャロウェイさん？大ファンなんです。あなたの音楽は本当に心に響きます。",
+      "idioms": [
+        {
+          "expression": "speaks to me",
+          "meaning": "Has a strong emotional impact; resonates personally",
+          "meaning_ja": "心に響く、共感する"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "scene": "Ash Visits Clay Calloway",
+      "character": "Clay Calloway",
+      "english": "Go away. Those days are behind me. I'm done with all of that.",
+      "japanese": "帰れ。あの日々は終わった。もう全部終わりだ。",
+      "idioms": [
+        {
+          "expression": "behind me",
+          "meaning": "In the past, no longer part of one's life",
+          "meaning_ja": "過去のことだ、もう終わった"
+        },
+        {
+          "expression": "done with",
+          "meaning": "Finished with; no longer willing to be involved in",
+          "meaning_ja": "もう終わりだ、もう関わらない"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "scene": "Ash Visits Clay Calloway",
+      "character": "Ash",
+      "english": "I know you've been through a lot. But your music still matters. It touched so many lives.",
+      "japanese": "たくさんの辛い経験をされたのは分かります。でもあなたの音楽はまだ大切です。多くの人の人生に触れました。",
+      "idioms": [
+        {
+          "expression": "been through a lot",
+          "meaning": "To have experienced many difficult situations",
+          "meaning_ja": "たくさんの辛い経験をした"
+        },
+        {
+          "expression": "touched so many lives",
+          "meaning": "Had a positive emotional impact on many people",
+          "meaning_ja": "多くの人の人生に感動を与えた"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "scene": "Ash Visits Clay Calloway",
+      "character": "Clay Calloway",
+      "english": "You don't know what you're talking about. Music died for me when Ruby did.",
+      "japanese": "分かったようなことを言うな。音楽はルビーと一緒に死んだんだ。",
+      "idioms": [
+        {
+          "expression": "don't know what you're talking about",
+          "meaning": "You don't understand the situation",
+          "meaning_ja": "分かったようなことを言うな、理解していない"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "scene": "Ash Visits Clay Calloway",
+      "character": "Ash",
+      "english": "I wrote this song. It's inspired by your work. I just... I want you to hear it. No strings attached.",
+      "japanese": "この曲を書いたんです。あなたの作品に触発されて。ただ...聴いてほしいんです。条件なしで。",
+      "idioms": [
+        {
+          "expression": "no strings attached",
+          "meaning": "Without any conditions or obligations",
+          "meaning_ja": "条件なしで、見返りを求めずに"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "scene": "Ash Visits Clay Calloway",
+      "character": "Clay Calloway",
+      "english": "That's... that's not half bad, kid.",
+      "japanese": "それは...悪くないな、お嬢ちゃん。",
+      "idioms": [
+        {
+          "expression": "not half bad",
+          "meaning": "Actually quite good (understated praise)",
+          "meaning_ja": "なかなかいい、意外と良い（控えめな褒め言葉）"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "scene": "Ash Visits Clay Calloway",
+      "character": "Ash",
+      "english": "Ruby would have wanted you to keep making music. Don't let the flame die out.",
+      "japanese": "ルビーさんはあなたに音楽を続けてほしかったはず。その炎を消さないで。",
+      "idioms": [
+        {
+          "expression": "let the flame die out",
+          "meaning": "To allow passion or enthusiasm to fade away",
+          "meaning_ja": "情熱の炎を消す、やる気を失わせる"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "scene": "Ash Visits Clay Calloway",
+      "character": "Clay Calloway",
+      "english": "I'll... think about it. No promises. Now get out of here before I change my mind.",
+      "japanese": "...考えておく。約束はしない。気が変わる前にここから出て行け。",
+      "idioms": [
+        {
+          "expression": "no promises",
+          "meaning": "I am not committing to anything",
+          "meaning_ja": "約束はしない、保証はしない"
+        },
+        {
+          "expression": "change my mind",
+          "meaning": "To alter one's decision or opinion",
+          "meaning_ja": "気が変わる、考え直す"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "scene": "Rosita's Struggle",
+      "character": "Rosita",
+      "english": "I keep falling behind in rehearsals. I feel like I'm losing my touch.",
+      "japanese": "リハーサルでどんどん遅れてる。腕が鈍ってる気がするわ。",
+      "idioms": [
+        {
+          "expression": "falling behind",
+          "meaning": "Failing to keep up with others",
+          "meaning_ja": "遅れをとる、ついていけなくなる"
+        },
+        {
+          "expression": "losing my touch",
+          "meaning": "Becoming less skilled at something one used to be good at",
+          "meaning_ja": "腕が鈍る、勘が鈍る"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "scene": "Rosita's Struggle",
+      "character": "Gunter",
+      "english": "Rosita, don't be so hard on yourself. You're doing great!",
+      "japanese": "ロジータ、自分に厳しくしすぎないで。すごくうまくやってるよ！",
+      "idioms": [
+        {
+          "expression": "hard on yourself",
+          "meaning": "Being too critical of one's own actions",
+          "meaning_ja": "自分に厳しすぎる、自分を責めすぎる"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "scene": "Rosita's Struggle",
+      "character": "Rosita",
+      "english": "The stunts are terrifying. I'm not cut out for this kind of thing.",
+      "japanese": "スタントが怖すぎるの。私はこういうことに向いてないのよ。",
+      "idioms": [
+        {
+          "expression": "not cut out for",
+          "meaning": "Not naturally suited to a particular activity",
+          "meaning_ja": "向いていない、適性がない"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "scene": "Rosita's Struggle",
+      "character": "Buster Moon",
+      "english": "Rosita, I believe in you. Just hang in there a little longer.",
+      "japanese": "ロジータ、君を信じてるよ。もう少しだけ頑張って。",
+      "idioms": [
+        {
+          "expression": "believe in you",
+          "meaning": "To have confidence in someone's abilities",
+          "meaning_ja": "君を信じている、君の力を信じている"
+        },
+        {
+          "expression": "hang in there",
+          "meaning": "To persist despite difficulties",
+          "meaning_ja": "頑張って、持ちこたえて"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "scene": "Rosita's Struggle",
+      "character": "Porsha Crystal",
+      "english": "Daddy says I should take over Rosita's part. She doesn't have what it takes.",
+      "japanese": "パパがロジータの役を引き継げって。彼女には才能がないって。",
+      "idioms": [
+        {
+          "expression": "take over",
+          "meaning": "To assume control or responsibility for something",
+          "meaning_ja": "引き継ぐ、代わりにやる"
+        },
+        {
+          "expression": "doesn't have what it takes",
+          "meaning": "Lacks the necessary abilities",
+          "meaning_ja": "必要な才能がない、素質がない"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "scene": "Rosita's Struggle",
+      "character": "Buster Moon",
+      "english": "Now wait just a minute! Rosita earned her spot fair and square.",
+      "japanese": "ちょっと待ってくれ！ロジータは正々堂々と自分の席を勝ち取ったんだ。",
+      "idioms": [
+        {
+          "expression": "fair and square",
+          "meaning": "In an honest and straightforward manner",
+          "meaning_ja": "正々堂々と、公正に"
+        },
+        {
+          "expression": "earned her spot",
+          "meaning": "Deserved her position through effort",
+          "meaning_ja": "自分の席を実力で勝ち取った"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "scene": "Rosita's Struggle",
+      "character": "Jimmy Crystal",
+      "english": "My daughter gets what she wants, Moon. That's the bottom line.",
+      "japanese": "娘は望むものを手に入れる、ムーン。それが結論だ。",
+      "idioms": [
+        {
+          "expression": "the bottom line",
+          "meaning": "The most important point or the final conclusion",
+          "meaning_ja": "最終的な結論、要するに"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "scene": "Rosita's Struggle",
+      "character": "Rosita",
+      "english": "It's okay, Buster. Maybe I should just throw in the towel.",
+      "japanese": "大丈夫よ、バスター。もう諦めた方がいいのかも。",
+      "idioms": [
+        {
+          "expression": "throw in the towel",
+          "meaning": "To admit defeat; to give up",
+          "meaning_ja": "諦める、ギブアップする、降参する"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "scene": "Rosita's Struggle",
+      "character": "Gunter",
+      "english": "No way! We're in this together. We've got each other's backs!",
+      "japanese": "ダメだよ！僕たちは一緒だ。お互いを支え合ってるんだ！",
+      "idioms": [
+        {
+          "expression": "in this together",
+          "meaning": "Sharing the same situation or challenge as a team",
+          "meaning_ja": "一蓮托生、一緒にやっている"
+        },
+        {
+          "expression": "got each other's backs",
+          "meaning": "Supporting and protecting each other",
+          "meaning_ja": "お互いを支え合う、味方でいる"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "scene": "Rosita's Struggle",
+      "character": "Rosita",
+      "english": "You're right. I won't let them push me around.",
+      "japanese": "そうね。彼らに振り回されないわ。",
+      "idioms": [
+        {
+          "expression": "push me around",
+          "meaning": "To bully or dominate someone",
+          "meaning_ja": "人を振り回す、いじめる"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "scene": "Crystal's Threats",
+      "character": "Jimmy Crystal",
+      "english": "Where's Clay Calloway, Moon? I'm running out of patience.",
+      "japanese": "クレイ・キャロウェイはどこだ、ムーン？我慢の限界だぞ。",
+      "idioms": [
+        {
+          "expression": "running out of patience",
+          "meaning": "Becoming increasingly frustrated or annoyed",
+          "meaning_ja": "我慢の限界に近づいている、堪忍袋の緒が切れそう"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "scene": "Crystal's Threats",
+      "character": "Buster Moon",
+      "english": "He's coming, Mr. Crystal. It's just taking a little longer than expected. These things take time.",
+      "japanese": "来ますよ、クリスタルさん。予想より少し時間がかかっているだけです。こういうことには時間が必要なんです。",
+      "idioms": [
+        {
+          "expression": "these things take time",
+          "meaning": "A way of saying patience is needed because progress is slow",
+          "meaning_ja": "こういうことには時間がかかる"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "scene": "Crystal's Threats",
+      "character": "Jimmy Crystal",
+      "english": "Don't beat around the bush with me. Is he coming or not?",
+      "japanese": "ごまかすな。来るのか来ないのか？",
+      "idioms": [
+        {
+          "expression": "beat around the bush",
+          "meaning": "To avoid talking about the main topic directly",
+          "meaning_ja": "遠回しに言う、核心に触れない"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "scene": "Crystal's Threats",
+      "character": "Buster Moon",
+      "english": "I give you my word. He'll be there on opening night.",
+      "japanese": "約束します。初日の夜に彼はそこにいます。",
+      "idioms": [
+        {
+          "expression": "give you my word",
+          "meaning": "To promise sincerely",
+          "meaning_ja": "約束する、誓う"
+        },
+        {
+          "expression": "opening night",
+          "meaning": "The first public performance of a show",
+          "meaning_ja": "初日の夜、プレミア公演"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "scene": "Crystal's Threats",
+      "character": "Jimmy Crystal",
+      "english": "For your sake, I hope so. If this falls through, you're finished in this town.",
+      "japanese": "君のためにそう願うよ。これが失敗したら、この街では終わりだ。",
+      "idioms": [
+        {
+          "expression": "for your sake",
+          "meaning": "For your benefit or well-being",
+          "meaning_ja": "君のために、君の身のために"
+        },
+        {
+          "expression": "falls through",
+          "meaning": "To fail to happen as planned",
+          "meaning_ja": "失敗する、ダメになる"
+        },
+        {
+          "expression": "finished in this town",
+          "meaning": "Having no future career or reputation in the area",
+          "meaning_ja": "この街では終わりだ、もうやっていけない"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "scene": "Crystal's Threats",
+      "character": "Suki",
+      "english": "Buster, you need to level with Crystal before things get out of hand.",
+      "japanese": "バスター、事態が手に負えなくなる前にクリスタルに正直に話すべきよ。",
+      "idioms": [
+        {
+          "expression": "level with",
+          "meaning": "To be honest with someone",
+          "meaning_ja": "正直に話す、本当のことを言う"
+        },
+        {
+          "expression": "get out of hand",
+          "meaning": "To become uncontrollable",
+          "meaning_ja": "手に負えなくなる、収拾がつかなくなる"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "scene": "Crystal's Threats",
+      "character": "Buster Moon",
+      "english": "I can't back down now. Too much is at stake.",
+      "japanese": "今は引き下がれない。あまりにも多くのものがかかっている。",
+      "idioms": [
+        {
+          "expression": "back down",
+          "meaning": "To withdraw from a position or confrontation",
+          "meaning_ja": "引き下がる、撤退する"
+        },
+        {
+          "expression": "at stake",
+          "meaning": "At risk; in danger of being lost",
+          "meaning_ja": "危険にさらされている、かかっている"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "scene": "Crystal's Threats",
+      "character": "Eddie",
+      "english": "This whole thing could blow up in your face, Buster.",
+      "japanese": "これは全部、裏目に出るかもしれないぞ、バスター。",
+      "idioms": [
+        {
+          "expression": "blow up in your face",
+          "meaning": "To go wrong suddenly and cause problems for you",
+          "meaning_ja": "裏目に出る、自分に跳ね返ってくる"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "scene": "Crystal's Threats",
+      "character": "Buster Moon",
+      "english": "Maybe. But I'd rather go down swinging than play it safe.",
+      "japanese": "かもね。でも安全策を取るより、最後まで戦って負ける方がいい。",
+      "idioms": [
+        {
+          "expression": "go down swinging",
+          "meaning": "To keep fighting until the very end, even if losing",
+          "meaning_ja": "最後まで戦う、あがきながら倒れる"
+        },
+        {
+          "expression": "play it safe",
+          "meaning": "To avoid taking risks",
+          "meaning_ja": "安全策を取る、無難にいく"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "scene": "Crystal's Threats",
+      "character": "Jimmy Crystal",
+      "english": "Clock's ticking, Moon. Don't drop the ball.",
+      "japanese": "時間がないぞ、ムーン。ヘマをするな。",
+      "idioms": [
+        {
+          "expression": "clock's ticking",
+          "meaning": "Time is running out",
+          "meaning_ja": "時間がない、刻一刻と迫っている"
+        },
+        {
+          "expression": "drop the ball",
+          "meaning": "To make a mistake or fail to do something expected",
+          "meaning_ja": "ヘマをする、失敗する"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "scene": "Rehearsal Chaos",
+      "character": "Buster Moon",
+      "english": "Everyone, we need to pull ourselves together! The show is right around the corner.",
+      "japanese": "みんな、しっかりしなきゃ！ショーはもうすぐだ。",
+      "idioms": [
+        {
+          "expression": "pull ourselves together",
+          "meaning": "To regain composure and focus",
+          "meaning_ja": "しっかりする、気を取り直す"
+        },
+        {
+          "expression": "right around the corner",
+          "meaning": "Very near in time; about to happen soon",
+          "meaning_ja": "もうすぐ、間近に迫っている"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "scene": "Rehearsal Chaos",
+      "character": "Ash",
+      "english": "Clay still hasn't gotten back to me. I'm starting to lose hope.",
+      "japanese": "クレイからまだ返事がない。希望を失いかけてる。",
+      "idioms": [
+        {
+          "expression": "gotten back to me",
+          "meaning": "Replied or responded to a message",
+          "meaning_ja": "返事をくれた、折り返し連絡をくれた"
+        },
+        {
+          "expression": "lose hope",
+          "meaning": "To stop believing that something good will happen",
+          "meaning_ja": "希望を失う、望みがなくなる"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "scene": "Rehearsal Chaos",
+      "character": "Johnny",
+      "english": "Nooshy's been helping me behind the scenes. I think I'm finally turning a corner.",
+      "japanese": "ヌーシーが裏で助けてくれてるんだ。やっと転機が来た気がする。",
+      "idioms": [
+        {
+          "expression": "behind the scenes",
+          "meaning": "In secret; not visible to others",
+          "meaning_ja": "裏で、陰で、舞台裏で"
+        },
+        {
+          "expression": "turning a corner",
+          "meaning": "Starting to improve after a difficult period",
+          "meaning_ja": "転機を迎える、好転し始める"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "scene": "Rehearsal Chaos",
+      "character": "Meena",
+      "english": "Alfonso and I are finally on the same page. The chemistry is starting to click.",
+      "japanese": "アルフォンソと私はやっと意見が一致してる。息が合い始めてきた。",
+      "idioms": [
+        {
+          "expression": "on the same page",
+          "meaning": "In agreement; having the same understanding",
+          "meaning_ja": "意見が一致している、同じ認識を持っている"
+        },
+        {
+          "expression": "starting to click",
+          "meaning": "Beginning to work well together or understand something",
+          "meaning_ja": "噛み合い始める、うまくいき始める"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "scene": "Rehearsal Chaos",
+      "character": "Porsha Crystal",
+      "english": "I'm the star of this show! Everyone else is just along for the ride.",
+      "japanese": "私がこのショーのスターよ！他のみんなはただのおまけ。",
+      "idioms": [
+        {
+          "expression": "along for the ride",
+          "meaning": "Participating without having an important role",
+          "meaning_ja": "ただ付き合っているだけ、おまけで参加している"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "scene": "Rehearsal Chaos",
+      "character": "Gunter",
+      "english": "Porsha, the show is a team effort. There's no \"I\" in team!",
+      "japanese": "ポーシャ、ショーはチームの努力だよ。チームに「自分だけ」はないんだ！",
+      "idioms": [
+        {
+          "expression": "team effort",
+          "meaning": "Something achieved by working together as a group",
+          "meaning_ja": "チームの努力、共同作業"
+        },
+        {
+          "expression": "there's no I in team",
+          "meaning": "Success depends on cooperation, not individual ego",
+          "meaning_ja": "チームワークが大事、自分勝手はダメ"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "scene": "Rehearsal Chaos",
+      "character": "Miss Crawly",
+      "english": "Oh dear, the set pieces are falling apart at the seams!",
+      "japanese": "あらまあ、セットがバラバラになってるわ！",
+      "idioms": [
+        {
+          "expression": "falling apart at the seams",
+          "meaning": "Breaking down completely; in very poor condition",
+          "meaning_ja": "バラバラになる、崩壊する"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "scene": "Rehearsal Chaos",
+      "character": "Buster Moon",
+      "english": "Stay calm, everyone. We'll sort it out. Let's take it from the top.",
+      "japanese": "落ち着いて、みんな。なんとかするよ。最初からやり直そう。",
+      "idioms": [
+        {
+          "expression": "sort it out",
+          "meaning": "To resolve a problem or organize something",
+          "meaning_ja": "解決する、整理する"
+        },
+        {
+          "expression": "take it from the top",
+          "meaning": "To start again from the beginning",
+          "meaning_ja": "最初からやり直す"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "scene": "Rehearsal Chaos",
+      "character": "Klaus",
+      "english": "This is a train wreck! You people are wasting my time!",
+      "japanese": "これは大惨事だ！お前たちは私の時間を無駄にしている！",
+      "idioms": [
+        {
+          "expression": "a train wreck",
+          "meaning": "A complete disaster or chaotic situation",
+          "meaning_ja": "大惨事、めちゃくちゃな状態"
+        },
+        {
+          "expression": "wasting my time",
+          "meaning": "Using time ineffectively or pointlessly",
+          "meaning_ja": "時間を無駄にする"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "scene": "Rehearsal Chaos",
+      "character": "Johnny",
+      "english": "Don't listen to him, guys. We've come too far to throw it all away.",
+      "japanese": "彼の言うことは気にするな、みんな。ここまで来て全部捨てるわけにはいかない。",
+      "idioms": [
+        {
+          "expression": "come too far",
+          "meaning": "To have made too much progress to stop now",
+          "meaning_ja": "ここまで来た、もう後戻りできないほど進んだ"
+        },
+        {
+          "expression": "throw it all away",
+          "meaning": "To waste everything that has been achieved",
+          "meaning_ja": "全部台無しにする、すべてを捨てる"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "scene": "The Truth Comes Out",
+      "character": "Jimmy Crystal",
+      "english": "You've been stringing me along this whole time! Clay Calloway was never coming!",
+      "japanese": "ずっと俺を騙していたのか！クレイ・キャロウェイは最初から来る気がなかったんだ！",
+      "idioms": [
+        {
+          "expression": "stringing me along",
+          "meaning": "To deceive someone by making false promises over time",
+          "meaning_ja": "騙し続ける、じらし続ける"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "scene": "The Truth Comes Out",
+      "character": "Buster Moon",
+      "english": "Mr. Crystal, please, give me one more chance. I can still pull this off!",
+      "japanese": "クリスタルさん、お願いです、もう一度チャンスをください。まだやれます！",
+      "idioms": [
+        {
+          "expression": "one more chance",
+          "meaning": "An additional opportunity to succeed",
+          "meaning_ja": "もう一度チャンスを"
+        },
+        {
+          "expression": "pull this off",
+          "meaning": "To succeed in doing something difficult",
+          "meaning_ja": "やり遂げる、成功させる"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "scene": "The Truth Comes Out",
+      "character": "Jimmy Crystal",
+      "english": "You're out, Moon! Pack your bags and hit the road!",
+      "japanese": "お前はクビだ、ムーン！荷物をまとめて出て行け！",
+      "idioms": [
+        {
+          "expression": "pack your bags",
+          "meaning": "To prepare to leave",
+          "meaning_ja": "荷物をまとめる、出発の準備をする"
+        },
+        {
+          "expression": "hit the road",
+          "meaning": "To leave or go away",
+          "meaning_ja": "出発する、立ち去る"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "scene": "The Truth Comes Out",
+      "character": "Buster Moon",
+      "english": "I know I messed up. I bit off more than I could chew.",
+      "japanese": "失敗したのは分かってる。身の丈に合わないことをしてしまった。",
+      "idioms": [
+        {
+          "expression": "messed up",
+          "meaning": "Made a mistake or error",
+          "meaning_ja": "失敗した、しくじった"
+        },
+        {
+          "expression": "bit off more than I could chew",
+          "meaning": "Tried to do more than one is capable of",
+          "meaning_ja": "身の丈に合わないことをした"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "scene": "The Truth Comes Out",
+      "character": "Ash",
+      "english": "Don't beat yourself up, Buster. We all had a hand in this.",
+      "japanese": "自分を責めないで、バスター。私たちみんな関わっていたんだから。",
+      "idioms": [
+        {
+          "expression": "beat yourself up",
+          "meaning": "To criticize or blame oneself excessively",
+          "meaning_ja": "自分を責める、自己嫌悪に陥る"
+        },
+        {
+          "expression": "had a hand in",
+          "meaning": "Was involved in or contributed to something",
+          "meaning_ja": "関わっていた、一役買った"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "scene": "The Truth Comes Out",
+      "character": "Meena",
+      "english": "Are we really just going to call it quits? After everything we've been through?",
+      "japanese": "本当にこれで終わりにするの？今まで乗り越えてきたことの後で？",
+      "idioms": [
+        {
+          "expression": "call it quits",
+          "meaning": "To stop doing something; to give up",
+          "meaning_ja": "やめる、終わりにする"
+        },
+        {
+          "expression": "been through",
+          "meaning": "Experienced, especially something difficult",
+          "meaning_ja": "経験してきた、乗り越えてきた"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "scene": "The Truth Comes Out",
+      "character": "Johnny",
+      "english": "No way. We didn't come all this way to give up at the finish line.",
+      "japanese": "ありえない。ゴール手前で諦めるためにここまで来たんじゃない。",
+      "idioms": [
+        {
+          "expression": "come all this way",
+          "meaning": "To have traveled far or made great effort",
+          "meaning_ja": "はるばる来た、ここまで頑張ってきた"
+        },
+        {
+          "expression": "at the finish line",
+          "meaning": "At the very end; just before completing something",
+          "meaning_ja": "ゴール目前で、最後の最後で"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "scene": "The Truth Comes Out",
+      "character": "Gunter",
+      "english": "We're not going down without a fight!",
+      "japanese": "戦わずに負けるなんてありえない！",
+      "idioms": [
+        {
+          "expression": "not going down without a fight",
+          "meaning": "Refusing to accept defeat without resisting",
+          "meaning_ja": "戦わずに負けない、最後まで抵抗する"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "scene": "The Truth Comes Out",
+      "character": "Rosita",
+      "english": "Buster, we're with you through thick and thin. What's the plan?",
+      "japanese": "バスター、どんな時も一緒よ。計画は何？",
+      "idioms": [
+        {
+          "expression": "through thick and thin",
+          "meaning": "Through good times and bad times; no matter what",
+          "meaning_ja": "どんな時も、良い時も悪い時も"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "scene": "The Truth Comes Out",
+      "character": "Buster Moon",
+      "english": "We put on the show ourselves. No Crystal, no rules. We do it our way.",
+      "japanese": "自分たちでショーをやるんだ。クリスタルなし、ルールなし。自分たちのやり方で。",
+      "idioms": [
+        {
+          "expression": "do it our way",
+          "meaning": "To proceed according to one's own plan",
+          "meaning_ja": "自分たちのやり方でやる"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "scene": "Porsha's Change of Heart",
+      "character": "Porsha Crystal",
+      "english": "Wait... you guys are actually going through with this? Without my dad?",
+      "japanese": "待って...本当にやるの？パパなしで？",
+      "idioms": [
+        {
+          "expression": "going through with",
+          "meaning": "To complete something despite difficulties or doubts",
+          "meaning_ja": "やり遂げる、最後までやる"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "scene": "Porsha's Change of Heart",
+      "character": "Ash",
+      "english": "Your dad doesn't call the shots anymore. This is our show now.",
+      "japanese": "もうあなたのパパが仕切る必要はないの。これは私たちのショーよ。",
+      "idioms": [
+        {
+          "expression": "call the shots",
+          "meaning": "To make the important decisions; to be in charge",
+          "meaning_ja": "仕切る、決定権を持つ"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "scene": "Porsha's Change of Heart",
+      "character": "Porsha Crystal",
+      "english": "I... I want to be part of it. For real this time. Not because of my dad.",
+      "japanese": "私...参加したい。今度は本当に。パパのためじゃなく。",
+      "idioms": [
+        {
+          "expression": "for real",
+          "meaning": "Genuinely; not pretending",
+          "meaning_ja": "本当に、本気で"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "scene": "Porsha's Change of Heart",
+      "character": "Buster Moon",
+      "english": "Everyone deserves a second chance, Porsha. Welcome aboard.",
+      "japanese": "誰にでもセカンドチャンスはある、ポーシャ。ようこそ。",
+      "idioms": [
+        {
+          "expression": "a second chance",
+          "meaning": "Another opportunity after a failure",
+          "meaning_ja": "やり直しの機会、もう一度のチャンス"
+        },
+        {
+          "expression": "welcome aboard",
+          "meaning": "Welcome to the team or group",
+          "meaning_ja": "ようこそ、チームへようこそ"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "scene": "Porsha's Change of Heart",
+      "character": "Porsha Crystal",
+      "english": "I've been riding on my dad's coattails my whole life. It's time to stand on my own two feet.",
+      "japanese": "ずっとパパの七光りに頼ってきた。自分の力で立つ時が来たの。",
+      "idioms": [
+        {
+          "expression": "riding on someone's coattails",
+          "meaning": "Benefiting from someone else's success or influence",
+          "meaning_ja": "人の七光りに頼る、人のおかげで恩恵を受ける"
+        },
+        {
+          "expression": "stand on my own two feet",
+          "meaning": "To be independent and self-sufficient",
+          "meaning_ja": "自立する、自分の力で立つ"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "scene": "Clay Calloway Returns",
+      "character": "Ash",
+      "english": "Clay! You came! I didn't think you'd show up!",
+      "japanese": "クレイ！来てくれたの！来てくれると思わなかった！",
+      "idioms": [
+        {
+          "expression": "show up",
+          "meaning": "To arrive or appear somewhere",
+          "meaning_ja": "現れる、来る"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "scene": "Clay Calloway Returns",
+      "character": "Clay Calloway",
+      "english": "Your song got under my skin, kid. I couldn't get it out of my head.",
+      "japanese": "君の曲が心に刺さったんだ。頭から離れなかった。",
+      "idioms": [
+        {
+          "expression": "got under my skin",
+          "meaning": "To affect someone deeply; to bother or move someone",
+          "meaning_ja": "心に刺さる、深く影響を与える"
+        },
+        {
+          "expression": "couldn't get it out of my head",
+          "meaning": "Unable to stop thinking about something",
+          "meaning_ja": "頭から離れない"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "scene": "Clay Calloway Returns",
+      "character": "Clay Calloway",
+      "english": "Ruby always said I was too stubborn for my own good. Maybe it's time I turned over a new leaf.",
+      "japanese": "ルビーはいつも言ってた、頑固すぎて損してるって。そろそろ心機一転する時かもしれない。",
+      "idioms": [
+        {
+          "expression": "too stubborn for my own good",
+          "meaning": "So stubborn that it causes problems for oneself",
+          "meaning_ja": "頑固すぎて自分で損をする"
+        },
+        {
+          "expression": "turned over a new leaf",
+          "meaning": "To start behaving in a better way; to make a fresh start",
+          "meaning_ja": "心機一転する、新しいスタートを切る"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "scene": "Clay Calloway Returns",
+      "character": "Buster Moon",
+      "english": "Mr. Calloway! I can't believe my eyes! This is a dream come true!",
+      "japanese": "キャロウェイさん！目を疑うよ！夢が叶った！",
+      "idioms": [
+        {
+          "expression": "can't believe my eyes",
+          "meaning": "To be extremely surprised by what one sees",
+          "meaning_ja": "目を疑う、信じられない"
+        },
+        {
+          "expression": "a dream come true",
+          "meaning": "Something wonderful that one has wished for",
+          "meaning_ja": "夢が叶う、念願が実現する"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "scene": "Clay Calloway Returns",
+      "character": "Clay Calloway",
+      "english": "Don't get too carried away, kid. I'm a bit rusty. Haven't played in ages.",
+      "japanese": "あまり興奮するな。少し腕がなまってる。長い間演奏してないからな。",
+      "idioms": [
+        {
+          "expression": "get carried away",
+          "meaning": "To become too excited or enthusiastic",
+          "meaning_ja": "興奮しすぎる、我を忘れる"
+        },
+        {
+          "expression": "a bit rusty",
+          "meaning": "Having lost skill due to lack of practice",
+          "meaning_ja": "腕がなまっている、ブランクがある"
+        },
+        {
+          "expression": "in ages",
+          "meaning": "For a very long time",
+          "meaning_ja": "長い間、久しぶりに"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "scene": "Clay Calloway Returns",
+      "character": "Ash",
+      "english": "You'll pick it up again in no time. It's like riding a bike.",
+      "japanese": "すぐに取り戻せるよ。自転車と同じで、一度覚えたら忘れないから。",
+      "idioms": [
+        {
+          "expression": "pick it up",
+          "meaning": "To resume or recover a skill",
+          "meaning_ja": "取り戻す、再開する"
+        },
+        {
+          "expression": "in no time",
+          "meaning": "Very quickly",
+          "meaning_ja": "すぐに、あっという間に"
+        },
+        {
+          "expression": "like riding a bike",
+          "meaning": "Something you never forget how to do once learned",
+          "meaning_ja": "一度覚えたら忘れない"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "scene": "Clay Calloway Returns",
+      "character": "Clay Calloway",
+      "english": "I'm doing this for Ruby. She wouldn't have wanted me to throw in the towel.",
+      "japanese": "ルビーのためにやるんだ。彼女は俺に諦めてほしくなかったはずだ。",
+      "idioms": []
+    },
+    {
+      "id": 133,
+      "scene": "Preparing the Secret Show",
+      "character": "Buster Moon",
+      "english": "We're pulling out all the stops for this one. This is do or die.",
+      "japanese": "全力を尽くすぞ。やるかやられるかだ。",
+      "idioms": [
+        {
+          "expression": "pulling out all the stops",
+          "meaning": "To make every possible effort",
+          "meaning_ja": "全力を尽くす、あらゆる手を使う"
+        },
+        {
+          "expression": "do or die",
+          "meaning": "A situation where one must succeed or face serious consequences",
+          "meaning_ja": "やるかやられるか、一か八か"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "scene": "Preparing the Secret Show",
+      "character": "Suki",
+      "english": "I pulled some strings and got us into the Crystal Theater tonight.",
+      "japanese": "コネを使って今夜クリスタル・シアターを押さえたわ。",
+      "idioms": [
+        {
+          "expression": "pulled some strings",
+          "meaning": "To use one's influence or connections to get something done",
+          "meaning_ja": "コネを使う、裏から手を回す"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "scene": "Preparing the Secret Show",
+      "character": "Buster Moon",
+      "english": "Suki, you're a lifesaver! I owe you one.",
+      "japanese": "スキ、命の恩人だ！借りができたね。",
+      "idioms": [
+        {
+          "expression": "a lifesaver",
+          "meaning": "A person who helps in a critical moment",
+          "meaning_ja": "命の恩人、大いに助かる人"
+        },
+        {
+          "expression": "I owe you one",
+          "meaning": "I am indebted to you for a favor",
+          "meaning_ja": "借りができた、恩に着るよ"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "scene": "Preparing the Secret Show",
+      "character": "Gunter",
+      "english": "The sets aren't perfect, but they'll do the trick!",
+      "japanese": "セットは完璧じゃないけど、十分いけるよ！",
+      "idioms": [
+        {
+          "expression": "do the trick",
+          "meaning": "To achieve the desired result",
+          "meaning_ja": "うまくいく、効果がある"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "scene": "Preparing the Secret Show",
+      "character": "Nooshy",
+      "english": "Johnny and I have been burning the midnight oil on the choreography.",
+      "japanese": "ジョニーと私は深夜まで振り付けを練習してたの。",
+      "idioms": [
+        {
+          "expression": "burning the midnight oil",
+          "meaning": "Working late into the night",
+          "meaning_ja": "深夜まで働く、夜遅くまで頑張る"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "scene": "Preparing the Secret Show",
+      "character": "Johnny",
+      "english": "I finally nailed the routine! It took blood, sweat, and tears, but I got there.",
+      "japanese": "ついにルーティンを完璧にしたよ！血と汗と涙が必要だったけど、やり遂げた。",
+      "idioms": [
+        {
+          "expression": "nailed it",
+          "meaning": "To do something perfectly",
+          "meaning_ja": "完璧にやった、見事に成功した"
+        },
+        {
+          "expression": "blood, sweat, and tears",
+          "meaning": "Extremely hard work and effort",
+          "meaning_ja": "血と汗と涙、非常な努力"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "scene": "Preparing the Secret Show",
+      "character": "Meena",
+      "english": "I'm still nervous, but I'm not going to let fear hold me back anymore.",
+      "japanese": "まだ緊張してるけど、もう恐怖に足を引っ張られないわ。",
+      "idioms": [
+        {
+          "expression": "hold me back",
+          "meaning": "To prevent someone from making progress",
+          "meaning_ja": "足を引っ張る、妨げる"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "scene": "Preparing the Secret Show",
+      "character": "Rosita",
+      "english": "I've faced my fears head-on. I'm ready to give it everything I've got.",
+      "japanese": "恐怖に正面から向き合ったわ。持てるすべてを出す準備ができてる。",
+      "idioms": [
+        {
+          "expression": "head-on",
+          "meaning": "Directly and without avoiding",
+          "meaning_ja": "正面から、真っ向から"
+        },
+        {
+          "expression": "everything I've got",
+          "meaning": "All of one's ability and effort",
+          "meaning_ja": "持てるすべて、全力"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "scene": "Final Performance - Opening",
+      "character": "Buster Moon",
+      "english": "This is the moment of truth. Everything we've worked for comes down to this.",
+      "japanese": "これが真実の瞬間だ。僕たちが頑張ってきたすべてがこの一瞬にかかっている。",
+      "idioms": [
+        {
+          "expression": "moment of truth",
+          "meaning": "A critical time when an important decision or outcome is revealed",
+          "meaning_ja": "真実の瞬間、正念場"
+        },
+        {
+          "expression": "comes down to this",
+          "meaning": "Everything depends on this one thing",
+          "meaning_ja": "これにかかっている、これ次第だ"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "scene": "Final Performance - Opening",
+      "character": "Gunter",
+      "english": "Let's blow the roof off this place!",
+      "japanese": "この場所の屋根を吹き飛ばそう！",
+      "idioms": [
+        {
+          "expression": "blow the roof off",
+          "meaning": "To create an extremely exciting atmosphere",
+          "meaning_ja": "会場を大いに盛り上げる、屋根が吹き飛ぶほど盛り上げる"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "scene": "Final Performance - Opening",
+      "character": "Ash",
+      "english": "No matter what happens out there, I just want you all to know... it's been a blast.",
+      "japanese": "何が起ころうと、みんなに言いたいの...最高に楽しかった。",
+      "idioms": [
+        {
+          "expression": "no matter what",
+          "meaning": "Regardless of what happens",
+          "meaning_ja": "何が起ころうと、どんなことがあっても"
+        },
+        {
+          "expression": "it's been a blast",
+          "meaning": "It has been a very enjoyable experience",
+          "meaning_ja": "最高に楽しかった、すごく良い経験だった"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "scene": "Final Performance - Opening",
+      "character": "Johnny",
+      "english": "Same here. You guys are like family to me. Let's leave it all on the stage.",
+      "japanese": "僕もだよ。みんなは家族みたいだ。ステージにすべてを出し切ろう。",
+      "idioms": [
+        {
+          "expression": "leave it all on the stage",
+          "meaning": "To give absolutely everything in a performance",
+          "meaning_ja": "ステージにすべてを出し切る、全力を尽くす"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "scene": "Final Performance - Opening",
+      "character": "Meena",
+      "english": "I'm not going to hold back tonight. This is my time to shine.",
+      "japanese": "今夜は遠慮しない。これが私の輝く時。",
+      "idioms": [
+        {
+          "expression": "hold back",
+          "meaning": "To restrain oneself; to not use full effort",
+          "meaning_ja": "遠慮する、抑える"
+        },
+        {
+          "expression": "time to shine",
+          "meaning": "An opportunity to show one's abilities",
+          "meaning_ja": "輝く時、実力を見せる時"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "scene": "Final Performance - Opening",
+      "character": "Rosita",
+      "english": "I've got a new lease on life after this journey. Win or lose, it was worth it.",
+      "japanese": "この旅を経て新しい人生を手に入れた気分。勝っても負けても、価値があったわ。",
+      "idioms": [
+        {
+          "expression": "a new lease on life",
+          "meaning": "A chance to enjoy life more, especially after a difficult time",
+          "meaning_ja": "新しい人生、生きがいを取り戻す"
+        },
+        {
+          "expression": "win or lose",
+          "meaning": "Regardless of the outcome",
+          "meaning_ja": "勝っても負けても"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "scene": "Final Performance - Opening",
+      "character": "Clay Calloway",
+      "english": "I haven't felt this alive in years. Let's do this.",
+      "japanese": "こんなに生きていると感じたのは何年ぶりだ。やるぞ。",
+      "idioms": [
+        {
+          "expression": "felt this alive",
+          "meaning": "Experienced such a strong sense of vitality and excitement",
+          "meaning_ja": "こんなに生きていると感じた、活力に満ちた"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "scene": "Final Performance - On Stage",
+      "character": "Buster Moon",
+      "english": "Ladies and gentlemen, welcome to our show! Sit back and enjoy the ride!",
+      "japanese": "皆様、ショーへようこそ！ゆっくり座って楽しんでください！",
+      "idioms": [
+        {
+          "expression": "sit back and enjoy the ride",
+          "meaning": "To relax and enjoy an experience",
+          "meaning_ja": "ゆっくり楽しむ、リラックスして楽しむ"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "scene": "Final Performance - On Stage",
+      "character": "Porsha Crystal",
+      "english": "I never thought I'd be up here on my own merits. This feels incredible.",
+      "japanese": "自分の実力でここに立てるとは思わなかった。信じられない気分。",
+      "idioms": [
+        {
+          "expression": "on my own merits",
+          "meaning": "Based on one's own abilities, not because of connections",
+          "meaning_ja": "自分の実力で、自力で"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "scene": "Final Performance - On Stage",
+      "character": "Johnny",
+      "english": "The crowd is going wild! We're killing it out there!",
+      "japanese": "観客が大盛り上がりだ！僕たち最高にイケてる！",
+      "idioms": [
+        {
+          "expression": "going wild",
+          "meaning": "Becoming extremely excited or enthusiastic",
+          "meaning_ja": "大盛り上がりだ、熱狂している"
+        },
+        {
+          "expression": "killing it",
+          "meaning": "Performing extremely well",
+          "meaning_ja": "最高にうまくやっている、大成功している"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "scene": "Final Performance - On Stage",
+      "character": "Meena",
+      "english": "I can't believe I'm singing my heart out in front of all these people!",
+      "japanese": "こんなに大勢の前で全力で歌ってるなんて信じられない！",
+      "idioms": [
+        {
+          "expression": "singing my heart out",
+          "meaning": "Singing with great emotion and energy",
+          "meaning_ja": "全力で歌う、心を込めて歌う"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "scene": "Final Performance - On Stage",
+      "character": "Gunter",
+      "english": "The special effects are working like a charm! Everything is falling into place!",
+      "japanese": "特殊効果がバッチリ動いてる！すべてがうまくいってる！",
+      "idioms": [
+        {
+          "expression": "like a charm",
+          "meaning": "Perfectly; very effectively",
+          "meaning_ja": "バッチリ、完璧に"
+        },
+        {
+          "expression": "falling into place",
+          "meaning": "Happening in a satisfactory way",
+          "meaning_ja": "うまくいく、ぴったり合う"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "scene": "Final Performance - Confrontation",
+      "character": "Jimmy Crystal",
+      "english": "What is this?! You went behind my back! This is MY theater!",
+      "japanese": "なんだこれは！？俺の知らないところでやりやがって！ここは俺のシアターだ！",
+      "idioms": [
+        {
+          "expression": "went behind my back",
+          "meaning": "Did something secretly without telling someone",
+          "meaning_ja": "陰でこそこそやった、内緒でやった"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "scene": "Final Performance - Confrontation",
+      "character": "Buster Moon",
+      "english": "The show must go on, Mr. Crystal. And nothing you do can stop it.",
+      "japanese": "ショーは続けなければならない、クリスタルさん。あなたが何をしても止められない。",
+      "idioms": [
+        {
+          "expression": "the show must go on",
+          "meaning": "An event or activity must continue despite problems",
+          "meaning_ja": "ショーは続けなければならない、何があっても続ける"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "scene": "Final Performance - Confrontation",
+      "character": "Jimmy Crystal",
+      "english": "You'll pay for this, Moon! You're playing with fire!",
+      "japanese": "この借りは返すぞ、ムーン！火遊びをしているんだぞ！",
+      "idioms": [
+        {
+          "expression": "you'll pay for this",
+          "meaning": "You will suffer consequences for your actions",
+          "meaning_ja": "この借りは返す、覚えていろ"
+        },
+        {
+          "expression": "playing with fire",
+          "meaning": "Taking a dangerous risk",
+          "meaning_ja": "火遊びをする、危険なことをする"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "scene": "Final Performance - Confrontation",
+      "character": "Porsha Crystal",
+      "english": "Dad, stop it! For once in your life, let someone else have the spotlight!",
+      "japanese": "パパ、やめて！一度くらい他の人にスポットライトを譲ってよ！",
+      "idioms": [
+        {
+          "expression": "for once in your life",
+          "meaning": "Used to emphasize that someone should do something they never do",
+          "meaning_ja": "一度くらい、たまには"
+        },
+        {
+          "expression": "have the spotlight",
+          "meaning": "To receive public attention",
+          "meaning_ja": "スポットライトを浴びる、注目を受ける"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "scene": "Final Performance - Clay's Solo",
+      "character": "Clay Calloway",
+      "english": "This one's for you, Ruby. I should have done this a long time ago.",
+      "japanese": "これは君のために、ルビー。もっと早くやるべきだった。",
+      "idioms": [
+        {
+          "expression": "this one's for you",
+          "meaning": "Dedicating a performance or action to someone",
+          "meaning_ja": "これは君のために"
+        },
+        {
+          "expression": "a long time ago",
+          "meaning": "In the distant past",
+          "meaning_ja": "ずっと前に"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "scene": "Final Performance - Clay's Solo",
+      "character": "Ash",
+      "english": "He's pouring his heart into every note. There isn't a dry eye in the house.",
+      "japanese": "一音一音に心を込めている。会場中が涙を流してる。",
+      "idioms": [
+        {
+          "expression": "pouring his heart into",
+          "meaning": "Putting all of one's emotion and effort into something",
+          "meaning_ja": "心を込める、感情を注ぐ"
+        },
+        {
+          "expression": "not a dry eye in the house",
+          "meaning": "Everyone in the audience is crying (from emotion)",
+          "meaning_ja": "会場中が涙、観客全員が泣いている"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "scene": "Final Performance - Clay's Solo",
+      "character": "Eddie",
+      "english": "I've got goosebumps. This is giving me chills.",
+      "japanese": "鳥肌が立つ。ゾクゾクする。",
+      "idioms": [
+        {
+          "expression": "goosebumps",
+          "meaning": "Tiny bumps on the skin caused by strong emotion",
+          "meaning_ja": "鳥肌"
+        },
+        {
+          "expression": "giving me chills",
+          "meaning": "Causing a strong emotional reaction",
+          "meaning_ja": "ゾクゾクする、感動で震える"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "scene": "Final Performance - Clay's Solo",
+      "character": "Buster Moon",
+      "english": "This is everything I've ever dreamed of. It was all worth it in the end.",
+      "japanese": "これが僕がずっと夢見ていたことだ。最後には全部報われた。",
+      "idioms": [
+        {
+          "expression": "worth it in the end",
+          "meaning": "The result justified all the effort and difficulty",
+          "meaning_ja": "最後には報われた、結果的にやった甲斐があった"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "scene": "Standing Ovation & Aftermath",
+      "character": "Buster Moon",
+      "english": "We did it! The audience is on their feet! Standing ovation!",
+      "japanese": "やったぞ！観客がスタンディングオベーションしてる！",
+      "idioms": [
+        {
+          "expression": "on their feet",
+          "meaning": "Standing up, especially to applaud",
+          "meaning_ja": "立ち上がって、スタンディングオベーション"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "scene": "Standing Ovation & Aftermath",
+      "character": "Ash",
+      "english": "We pulled it off! Against all odds!",
+      "japanese": "やり遂げた！あらゆる困難に打ち勝って！",
+      "idioms": [
+        {
+          "expression": "pulled it off",
+          "meaning": "Succeeded in doing something difficult",
+          "meaning_ja": "やり遂げた、成功させた"
+        },
+        {
+          "expression": "against all odds",
+          "meaning": "Despite very low chances of success",
+          "meaning_ja": "あらゆる困難に打ち勝って、万難を排して"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "scene": "Standing Ovation & Aftermath",
+      "character": "Johnny",
+      "english": "I can't believe we're getting a standing ovation! This is the cherry on top!",
+      "japanese": "スタンディングオベーションをもらってるなんて信じられない！最高の締めくくりだ！",
+      "idioms": [
+        {
+          "expression": "the cherry on top",
+          "meaning": "Something that makes a good situation even better",
+          "meaning_ja": "最高の仕上げ、ケーキの上のさくらんぼ"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "scene": "Standing Ovation & Aftermath",
+      "character": "Meena",
+      "english": "I faced my biggest fear and came out on top. I'm on cloud nine!",
+      "japanese": "最大の恐怖に立ち向かって勝ったわ。最高に幸せ！",
+      "idioms": [
+        {
+          "expression": "came out on top",
+          "meaning": "To be the winner or most successful",
+          "meaning_ja": "勝利を収めた、一番になった"
+        },
+        {
+          "expression": "on cloud nine",
+          "meaning": "Extremely happy",
+          "meaning_ja": "最高に幸せ、有頂天"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "scene": "Standing Ovation & Aftermath",
+      "character": "Rosita",
+      "english": "I proved to myself that I still have it in me. Never too late to follow your dreams.",
+      "japanese": "まだやれるって自分に証明できた。夢を追うのに遅すぎることはないのね。",
+      "idioms": [
+        {
+          "expression": "have it in me",
+          "meaning": "To have the ability or potential to do something",
+          "meaning_ja": "自分にその力がある、やれる"
+        },
+        {
+          "expression": "never too late",
+          "meaning": "It is always possible to start something or make a change",
+          "meaning_ja": "遅すぎることはない"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "scene": "Standing Ovation & Aftermath",
+      "character": "Clay Calloway",
+      "english": "Thank you, kid. You gave me a reason to get back in the game.",
+      "japanese": "ありがとう、お嬢ちゃん。また戦場に戻る理由をくれた。",
+      "idioms": [
+        {
+          "expression": "get back in the game",
+          "meaning": "To return to active participation after a period away",
+          "meaning_ja": "復帰する、また戦場に戻る"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "scene": "Standing Ovation & Aftermath",
+      "character": "Gunter",
+      "english": "We are the talk of the town! Everyone is buzzing about our show!",
+      "japanese": "僕たちは街の話題だ！みんながショーの噂で持ちきりだ！",
+      "idioms": [
+        {
+          "expression": "the talk of the town",
+          "meaning": "The subject of much conversation",
+          "meaning_ja": "街の話題、みんなの噂の的"
+        },
+        {
+          "expression": "buzzing about",
+          "meaning": "Talking excitedly about something",
+          "meaning_ja": "噂で持ちきり、話題にしている"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "scene": "Standing Ovation & Aftermath",
+      "character": "Porsha Crystal",
+      "english": "For the first time, I feel like I've found my own voice. Not daddy's little girl anymore.",
+      "japanese": "初めて、自分自身の声を見つけた気がする。もうパパのお嬢ちゃんじゃない。",
+      "idioms": [
+        {
+          "expression": "found my own voice",
+          "meaning": "Discovered one's unique identity or way of expression",
+          "meaning_ja": "自分自身の声を見つけた、自分らしさを発見した"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "scene": "Standing Ovation & Aftermath",
+      "character": "Miss Crawly",
+      "english": "Oh, Mr. Moon! I'm so proud! You always have an ace up your sleeve!",
+      "japanese": "ああ、ムーンさん！とても誇りに思います！いつも切り札を隠し持ってるのね！",
+      "idioms": [
+        {
+          "expression": "an ace up your sleeve",
+          "meaning": "A secret advantage or resource kept in reserve",
+          "meaning_ja": "切り札、隠し持った秘策"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "scene": "Standing Ovation & Aftermath",
+      "character": "Buster Moon",
+      "english": "I couldn't have done it without each and every one of you. You're the real stars.",
+      "japanese": "みんな一人一人がいなければできなかった。君たちこそが本当のスターだ。",
+      "idioms": [
+        {
+          "expression": "couldn't have done it without",
+          "meaning": "Would not have been possible without someone's help",
+          "meaning_ja": "〜なしでは成し遂げられなかった"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "scene": "Epilogue - New Beginnings",
+      "character": "Buster Moon",
+      "english": "Who would have thought that a little theater troupe from nowhere would end up here?",
+      "japanese": "名もない小さな劇団がここに辿り着くなんて、誰が想像しただろう？",
+      "idioms": [
+        {
+          "expression": "who would have thought",
+          "meaning": "An expression of surprise at an unexpected outcome",
+          "meaning_ja": "誰が想像しただろう、まさか"
+        },
+        {
+          "expression": "from nowhere",
+          "meaning": "From an unknown or unimportant place",
+          "meaning_ja": "無名の、どこからともなく"
+        },
+        {
+          "expression": "end up",
+          "meaning": "To finally be in a particular situation",
+          "meaning_ja": "結局〜になる、行き着く"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "scene": "Epilogue - New Beginnings",
+      "character": "Ash",
+      "english": "We've come a long way from the Moon Theater. But the best is yet to come.",
+      "japanese": "ムーン・シアターから長い道のりを来たね。でも一番いいことはこれからだ。",
+      "idioms": [
+        {
+          "expression": "come a long way",
+          "meaning": "To have made great progress",
+          "meaning_ja": "大きく成長した、長い道のりを歩んできた"
+        },
+        {
+          "expression": "the best is yet to come",
+          "meaning": "The most wonderful things have not happened yet",
+          "meaning_ja": "一番いいことはこれから、最高の時はまだ来ていない"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "scene": "Epilogue - New Beginnings",
+      "character": "Johnny",
+      "english": "I've learned that it's okay to ask for help. You don't have to go it alone.",
+      "japanese": "助けを求めていいんだって学んだよ。一人でやる必要はない。",
+      "idioms": [
+        {
+          "expression": "go it alone",
+          "meaning": "To do something by oneself without help",
+          "meaning_ja": "一人でやる、独力でやる"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "scene": "Epilogue - New Beginnings",
+      "character": "Meena",
+      "english": "I found my voice, literally and figuratively. I'm no longer afraid to speak up.",
+      "japanese": "文字通り、そして比喩的にも自分の声を見つけた。もう声を上げることが怖くない。",
+      "idioms": [
+        {
+          "expression": "literally and figuratively",
+          "meaning": "In both the exact and symbolic sense",
+          "meaning_ja": "文字通り、そして比喩的にも"
+        },
+        {
+          "expression": "speak up",
+          "meaning": "To express one's opinion openly",
+          "meaning_ja": "声を上げる、はっきり意見を言う"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "scene": "Epilogue - New Beginnings",
+      "character": "Rosita",
+      "english": "Being a mom and a performer isn't easy, but I wouldn't trade it for the world.",
+      "japanese": "母親とパフォーマーの両立は簡単じゃないけど、何にも代えがたいわ。",
+      "idioms": [
+        {
+          "expression": "wouldn't trade it for the world",
+          "meaning": "Would not give it up for anything",
+          "meaning_ja": "何にも代えがたい、絶対に手放したくない"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "scene": "Epilogue - New Beginnings",
+      "character": "Clay Calloway",
+      "english": "Music isn't just about the past. It's about looking ahead. Ruby taught me that.",
+      "japanese": "音楽は過去だけのものじゃない。前を向くことだ。ルビーがそれを教えてくれた。",
+      "idioms": [
+        {
+          "expression": "looking ahead",
+          "meaning": "Thinking about and planning for the future",
+          "meaning_ja": "前を向く、未来に目を向ける"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "scene": "Epilogue - New Beginnings",
+      "character": "Gunter",
+      "english": "Next stop: world tour! The sky's the limit!",
+      "japanese": "次はワールドツアーだ！可能性は無限大！",
+      "idioms": [
+        {
+          "expression": "the sky's the limit",
+          "meaning": "There is no limit to what can be achieved",
+          "meaning_ja": "可能性は無限大、限界はない"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "scene": "Epilogue - New Beginnings",
+      "character": "Buster Moon",
+      "english": "Whatever comes next, we'll face it together. After all, the show must go on!",
+      "japanese": "次に何が来ようと、一緒に立ち向かおう。結局、ショーは続けなければならないんだ！",
+      "idioms": [
+        {
+          "expression": "whatever comes next",
+          "meaning": "No matter what happens in the future",
+          "meaning_ja": "次に何が来ようと"
+        },
+        {
+          "expression": "after all",
+          "meaning": "Used to add a final reason or to remind of an important fact",
+          "meaning_ja": "結局、何と言っても"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "scene": "Bonus - Memorable Lines",
+      "character": "Jimmy Crystal",
+      "english": "In this town, it's sink or swim. And you're barely treading water.",
+      "japanese": "この街では生きるか死ぬかだ。お前はかろうじて浮いているだけだ。",
+      "idioms": [
+        {
+          "expression": "sink or swim",
+          "meaning": "To either fail or succeed by one's own efforts",
+          "meaning_ja": "生きるか死ぬか、自力で何とかするしかない"
+        },
+        {
+          "expression": "treading water",
+          "meaning": "Making no progress; just barely surviving",
+          "meaning_ja": "かろうじて生き延びている、進歩していない"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "scene": "Bonus - Memorable Lines",
+      "character": "Suki",
+      "english": "You've got guts, Moon. Not many people have the nerve to stand up to Crystal.",
+      "japanese": "度胸があるわね、ムーン。クリスタルに立ち向かう勇気のある人はそうそういないわ。",
+      "idioms": [
+        {
+          "expression": "got guts",
+          "meaning": "To have courage",
+          "meaning_ja": "度胸がある、勇気がある"
+        },
+        {
+          "expression": "have the nerve",
+          "meaning": "To have the courage or audacity to do something",
+          "meaning_ja": "〜する勇気がある、〜する度胸がある"
+        },
+        {
+          "expression": "stand up to",
+          "meaning": "To resist or confront someone",
+          "meaning_ja": "立ち向かう、対抗する"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "scene": "Bonus - Memorable Lines",
+      "character": "Nooshy",
+      "english": "Life is too short to play by someone else's rules. Make your own path.",
+      "japanese": "他人のルールに従うには人生は短すぎる。自分の道を作りなよ。",
+      "idioms": [
+        {
+          "expression": "life is too short",
+          "meaning": "Used to say something is not worth worrying about",
+          "meaning_ja": "人生は短い、くよくよしてる暇はない"
+        },
+        {
+          "expression": "play by the rules",
+          "meaning": "To follow established guidelines",
+          "meaning_ja": "ルールに従う"
+        },
+        {
+          "expression": "make your own path",
+          "meaning": "To create your own way in life",
+          "meaning_ja": "自分の道を切り開く"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "scene": "Bonus - Memorable Lines",
+      "character": "Eddie",
+      "english": "Buster has always been a dreamer. But that's what makes him tick.",
+      "japanese": "バスターはいつも夢見がちだ。でもそれが彼の原動力なんだ。",
+      "idioms": [
+        {
+          "expression": "what makes him tick",
+          "meaning": "What motivates or drives someone",
+          "meaning_ja": "彼の原動力、何が彼を動かしているか"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "scene": "Bonus - Memorable Lines",
+      "character": "Alfonso",
+      "english": "Meena, you knocked it out of the park tonight. You were absolutely brilliant.",
+      "japanese": "ミーナ、今夜は大成功だったよ。本当に素晴らしかった。",
+      "idioms": [
+        {
+          "expression": "knocked it out of the park",
+          "meaning": "To achieve something exceptionally well (from baseball)",
+          "meaning_ja": "大成功を収めた、ホームランを打った"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "scene": "Bonus - Memorable Lines",
+      "character": "Buster Moon",
+      "english": "When one door closes, another one opens. That's what show business is all about.",
+      "japanese": "一つのドアが閉まれば、別のドアが開く。それがショービジネスってものさ。",
+      "idioms": [
+        {
+          "expression": "when one door closes, another one opens",
+          "meaning": "New opportunities arise when others end",
+          "meaning_ja": "一つのドアが閉まれば別のドアが開く、捨てる神あれば拾う神あり"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "scene": "Bonus - Memorable Lines",
+      "character": "Clay Calloway",
+      "english": "You can't run from your past forever. At some point, you gotta face the music.",
+      "japanese": "過去から永遠に逃げることはできない。いつかは報いを受け入れなきゃならない。",
+      "idioms": [
+        {
+          "expression": "run from your past",
+          "meaning": "To try to avoid dealing with past experiences",
+          "meaning_ja": "過去から逃げる"
+        },
+        {
+          "expression": "face the music",
+          "meaning": "To accept the consequences of one's actions",
+          "meaning_ja": "報いを受け入れる、結果に向き合う"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "scene": "Bonus - Memorable Lines",
+      "character": "Rosita",
+      "english": "I may be a mom of twenty-five, but I've still got a few tricks up my sleeve.",
+      "japanese": "25人の子供の母親かもしれないけど、まだ秘策はあるのよ。",
+      "idioms": [
+        {
+          "expression": "tricks up my sleeve",
+          "meaning": "Secret skills or plans held in reserve",
+          "meaning_ja": "秘策がある、隠し技がある"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "scene": "Bonus - Memorable Lines",
+      "character": "Gunter",
+      "english": "Dream big, dance bigger! That's my motto!",
+      "japanese": "大きく夢を見て、もっと大きく踊れ！それが僕のモットーだ！",
+      "idioms": [
+        {
+          "expression": "dream big",
+          "meaning": "To have ambitious goals and aspirations",
+          "meaning_ja": "大きな夢を持つ"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "scene": "Bonus - Memorable Lines",
+      "character": "Ash",
+      "english": "Music has the power to heal. It's what keeps me going when times get tough.",
+      "japanese": "音楽には癒す力がある。辛い時に前に進ませてくれるの。",
+      "idioms": [
+        {
+          "expression": "keeps me going",
+          "meaning": "What motivates or sustains someone during difficult times",
+          "meaning_ja": "前に進ませてくれる、支えになっている"
+        },
+        {
+          "expression": "times get tough",
+          "meaning": "When situations become difficult",
+          "meaning_ja": "辛い時、困難な時期"
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "scene": "Bonus - Memorable Lines",
+      "character": "Jimmy Crystal",
+      "english": "I built this empire from the ground up. Nobody pulls the wool over my eyes.",
+      "japanese": "この帝国をゼロから築いた。誰にも騙されはしない。",
+      "idioms": [
+        {
+          "expression": "from the ground up",
+          "meaning": "From the very beginning; starting from nothing",
+          "meaning_ja": "ゼロから、一から"
+        },
+        {
+          "expression": "pull the wool over my eyes",
+          "meaning": "To deceive or trick someone",
+          "meaning_ja": "騙す、目をくらます"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "scene": "Bonus - Memorable Lines",
+      "character": "Buster Moon",
+      "english": "Every setback is a setup for a comeback. That's what I truly believe.",
+      "japanese": "すべての挫折は復活への準備だ。本当にそう信じているよ。",
+      "idioms": [
+        {
+          "expression": "setback is a setup for a comeback",
+          "meaning": "Failures prepare you for future success",
+          "meaning_ja": "挫折は復活への準備、失敗は成功のもと"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "scene": "Jimmy Crystal's Office",
+      "character": "Jimmy Crystal",
+      "english": "I didn't get where I am by being soft. In this business, you eat or get eaten.",
+      "japanese": "甘いことをしてここまで来たわけじゃない。この業界では、食うか食われるかだ。",
+      "idioms": [
+        {
+          "expression": "eat or get eaten",
+          "meaning": "A highly competitive environment where only the strong survive",
+          "meaning_ja": "食うか食われるか、弱肉強食"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "scene": "Jimmy Crystal's Office",
+      "character": "Jimmy Crystal",
+      "english": "My reputation is on the line. This show better deliver, or heads will roll.",
+      "japanese": "俺の評判がかかっている。このショーは成功しなきゃ、ただじゃおかないぞ。",
+      "idioms": [
+        {
+          "expression": "on the line",
+          "meaning": "At risk of being lost or damaged",
+          "meaning_ja": "かかっている、危険にさらされている"
+        },
+        {
+          "expression": "heads will roll",
+          "meaning": "People will be punished or fired",
+          "meaning_ja": "誰かの首が飛ぶ、責任を取らされる"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "scene": "Jimmy Crystal's Office",
+      "character": "Suki",
+      "english": "Crystal doesn't take kindly to broken promises. He's got a mean streak a mile wide.",
+      "japanese": "クリスタルは約束を破ることを許さないわ。彼は底意地が悪いのよ。",
+      "idioms": [
+        {
+          "expression": "doesn't take kindly to",
+          "meaning": "Reacts negatively to something",
+          "meaning_ja": "〜を快く思わない、〜を許さない"
+        },
+        {
+          "expression": "a mean streak",
+          "meaning": "A tendency to be cruel or unkind",
+          "meaning_ja": "意地悪な面、底意地の悪さ"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "scene": "Street Performance - Nooshy",
+      "character": "Nooshy",
+      "english": "The streets are where the real magic happens. No fancy stage, just raw talent.",
+      "japanese": "ストリートこそ本当の魔法が起きる場所。豪華なステージなんていらない、生の才能だけ。",
+      "idioms": [
+        {
+          "expression": "raw talent",
+          "meaning": "Natural ability that has not been formally developed",
+          "meaning_ja": "生の才能、天性の才能"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "scene": "Street Performance - Nooshy",
+      "character": "Nooshy",
+      "english": "Don't overthink it, Johnny. Sometimes you just gotta wing it.",
+      "japanese": "考えすぎないで、ジョニー。時にはぶっつけ本番でやるしかないの。",
+      "idioms": [
+        {
+          "expression": "overthink it",
+          "meaning": "To think about something too much or too carefully",
+          "meaning_ja": "考えすぎる"
+        },
+        {
+          "expression": "wing it",
+          "meaning": "To improvise without preparation",
+          "meaning_ja": "ぶっつけ本番でやる、即興でやる"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "scene": "Street Performance - Nooshy",
+      "character": "Johnny",
+      "english": "I can't believe how much I've improved! You really brought out the best in me.",
+      "japanese": "こんなに上達するなんて信じられない！君が僕の最高を引き出してくれたんだ。",
+      "idioms": [
+        {
+          "expression": "brought out the best in me",
+          "meaning": "Helped someone achieve their full potential",
+          "meaning_ja": "最高の自分を引き出してくれた"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "scene": "Street Performance - Nooshy",
+      "character": "Nooshy",
+      "english": "It was always there. You just needed someone to show you the ropes.",
+      "japanese": "ずっとあったんだよ。誰かにコツを教えてもらう必要があっただけ。",
+      "idioms": [
+        {
+          "expression": "show you the ropes",
+          "meaning": "To teach someone the basic ways of doing a task",
+          "meaning_ja": "コツを教える、やり方を教える"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "scene": "Backstage Conversations",
+      "character": "Eddie",
+      "english": "Buster, you're spreading yourself too thin. You can't do everything by yourself.",
+      "japanese": "バスター、手を広げすぎだ。一人で全部はできないよ。",
+      "idioms": [
+        {
+          "expression": "spreading yourself too thin",
+          "meaning": "Trying to do too many things at once, reducing quality",
+          "meaning_ja": "手を広げすぎる、あれもこれもやりすぎる"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "scene": "Backstage Conversations",
+      "character": "Buster Moon",
+      "english": "I know, but I'm the one who got us into this mess. The buck stops with me.",
+      "japanese": "分かってるけど、僕がこの問題に巻き込んだんだ。最終的な責任は僕にある。",
+      "idioms": [
+        {
+          "expression": "got us into this mess",
+          "meaning": "Caused the current problematic situation",
+          "meaning_ja": "この面倒に巻き込んだ"
+        },
+        {
+          "expression": "the buck stops with me",
+          "meaning": "I take full responsibility",
+          "meaning_ja": "最終的な責任は自分にある"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "scene": "Backstage Conversations",
+      "character": "Eddie",
+      "english": "That's what friends are for, buddy. We sink or swim together.",
+      "japanese": "そのための友達だろ。一蓮托生だよ。",
+      "idioms": [
+        {
+          "expression": "that's what friends are for",
+          "meaning": "Friends are meant to help each other in difficult times",
+          "meaning_ja": "そのための友達だ"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "scene": "Backstage Conversations",
+      "character": "Miss Crawly",
+      "english": "I may be old, but I've still got a spring in my step!",
+      "japanese": "年は取ったけど、まだまだ元気よ！",
+      "idioms": [
+        {
+          "expression": "a spring in my step",
+          "meaning": "A lively, energetic way of walking; enthusiasm",
+          "meaning_ja": "足取りが軽い、元気がある"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "scene": "Backstage Conversations",
+      "character": "Buster Moon",
+      "english": "Miss Crawly, you're one in a million. What would I do without you?",
+      "japanese": "ミス・クローリー、あなたは百万人に一人だ。あなたなしでどうするんだ？",
+      "idioms": [
+        {
+          "expression": "one in a million",
+          "meaning": "Very special or unique",
+          "meaning_ja": "百万人に一人、非常に特別な"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "scene": "Emotional Moments",
+      "character": "Ash",
+      "english": "Clay, I know you're hurting. But bottling up your feelings won't make the pain go away.",
+      "japanese": "クレイ、辛いのは分かる。でも感情を押し殺しても痛みは消えない。",
+      "idioms": [
+        {
+          "expression": "bottling up your feelings",
+          "meaning": "Suppressing or hiding one's emotions",
+          "meaning_ja": "感情を押し殺す、気持ちを抑え込む"
+        },
+        {
+          "expression": "make the pain go away",
+          "meaning": "To eliminate suffering",
+          "meaning_ja": "痛みを消す、苦しみをなくす"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "scene": "Emotional Moments",
+      "character": "Clay Calloway",
+      "english": "When Ruby died, a part of me died too. I've been going through the motions ever since.",
+      "japanese": "ルビーが死んだ時、俺の一部も死んだ。それ以来、ただ惰性で生きてきた。",
+      "idioms": [
+        {
+          "expression": "going through the motions",
+          "meaning": "Doing something mechanically without real interest or effort",
+          "meaning_ja": "惰性でやる、形だけやる"
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "scene": "Emotional Moments",
+      "character": "Ash",
+      "english": "Sometimes you have to hit rock bottom before you can rise again.",
+      "japanese": "また立ち上がるためには、一度どん底に落ちなきゃいけない時もある。",
+      "idioms": [
+        {
+          "expression": "hit rock bottom",
+          "meaning": "To reach the lowest possible point",
+          "meaning_ja": "どん底に落ちる、最低の状態になる"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "scene": "Emotional Moments",
+      "character": "Clay Calloway",
+      "english": "You remind me of Ruby, you know that? She never took no for an answer either.",
+      "japanese": "ルビーを思い出すよ。彼女もノーとは言わせない人だった。",
+      "idioms": [
+        {
+          "expression": "never took no for an answer",
+          "meaning": "Refusing to accept rejection; very persistent",
+          "meaning_ja": "ノーとは言わせない、諦めない"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "scene": "Emotional Moments",
+      "character": "Meena",
+      "english": "Alfonso, you make me feel at ease. Like I can be myself around you.",
+      "japanese": "アルフォンソ、あなたといると安心する。ありのままの自分でいられる。",
+      "idioms": [
+        {
+          "expression": "feel at ease",
+          "meaning": "To feel relaxed and comfortable",
+          "meaning_ja": "安心する、くつろぐ"
+        },
+        {
+          "expression": "be myself",
+          "meaning": "To behave naturally without pretending",
+          "meaning_ja": "ありのままの自分でいる"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "scene": "Emotional Moments",
+      "character": "Alfonso",
+      "english": "That's the real you, Meena. Don't ever let anyone dull your sparkle.",
+      "japanese": "それが本当のミーナだよ。誰にも輝きを曇らせないで。",
+      "idioms": [
+        {
+          "expression": "dull your sparkle",
+          "meaning": "To diminish someone's enthusiasm or unique qualities",
+          "meaning_ja": "輝きを失わせる、個性を曇らせる"
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "scene": "Confrontation with Klaus",
+      "character": "Klaus",
+      "english": "You think you can cut corners and still make it? This is the big time!",
+      "japanese": "手を抜いても成功できると思っているのか？ここは一流の世界だぞ！",
+      "idioms": [
+        {
+          "expression": "cut corners",
+          "meaning": "To do something in a cheaper or easier way, often reducing quality",
+          "meaning_ja": "手を抜く、近道をする"
+        },
+        {
+          "expression": "the big time",
+          "meaning": "The highest level of success or fame",
+          "meaning_ja": "一流の世界、大舞台"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "scene": "Confrontation with Klaus",
+      "character": "Johnny",
+      "english": "I'm not cutting corners. I'm doing things my way, and it's paying off.",
+      "japanese": "手を抜いてない。自分のやり方でやっていて、それが成果を出している。",
+      "idioms": [
+        {
+          "expression": "my way",
+          "meaning": "According to one's own method or preference",
+          "meaning_ja": "自分のやり方で"
+        },
+        {
+          "expression": "paying off",
+          "meaning": "Producing good results",
+          "meaning_ja": "成果が出ている、報われている"
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "scene": "Confrontation with Klaus",
+      "character": "Klaus",
+      "english": "Mark my words, this amateur act will fall flat on its face.",
+      "japanese": "俺の言葉を覚えておけ、この素人芝居は惨めに失敗するぞ。",
+      "idioms": [
+        {
+          "expression": "mark my words",
+          "meaning": "Remember what I'm saying (because it will come true)",
+          "meaning_ja": "俺の言葉を覚えておけ、言ったとおりになるぞ"
+        },
+        {
+          "expression": "fall flat on its face",
+          "meaning": "To fail completely and embarrassingly",
+          "meaning_ja": "惨めに失敗する、大コケする"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "scene": "Confrontation with Klaus",
+      "character": "Nooshy",
+      "english": "Don't hold your breath, Klaus. Johnny's got more talent in his little finger than you have in your whole body.",
+      "japanese": "期待しないことね、クラウス。ジョニーの小指の方があんたの全身より才能があるわ。",
+      "idioms": [
+        {
+          "expression": "don't hold your breath",
+          "meaning": "Don't expect it to happen (sarcastic)",
+          "meaning_ja": "期待しないことね、あてにしない方がいい"
+        },
+        {
+          "expression": "more talent in his little finger",
+          "meaning": "Far more talented than someone else (exaggeration)",
+          "meaning_ja": "小指一本の方が才能がある（誇張表現）"
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "scene": "Night Before the Show",
+      "character": "Buster Moon",
+      "english": "I can't sleep. I've got a million things running through my mind.",
+      "japanese": "眠れない。頭の中で百万のことが駆け巡っている。",
+      "idioms": [
+        {
+          "expression": "running through my mind",
+          "meaning": "Thoughts that keep occurring repeatedly",
+          "meaning_ja": "頭の中を駆け巡る、次々と考えが浮かぶ"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "scene": "Night Before the Show",
+      "character": "Eddie",
+      "english": "Get some shut-eye, Buster. You're going to need it. Tomorrow is the big day.",
+      "japanese": "少し寝ろよ、バスター。必要になるぞ。明日は大事な日だ。",
+      "idioms": [
+        {
+          "expression": "get some shut-eye",
+          "meaning": "To get some sleep",
+          "meaning_ja": "少し寝る、仮眠を取る"
+        },
+        {
+          "expression": "the big day",
+          "meaning": "An important or special day",
+          "meaning_ja": "大事な日、決戦の日"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "scene": "Night Before the Show",
+      "character": "Buster Moon",
+      "english": "What if it all goes south? What if we crash and burn?",
+      "japanese": "もし全部うまくいかなかったら？大失敗したらどうする？",
+      "idioms": [
+        {
+          "expression": "goes south",
+          "meaning": "To go wrong; to deteriorate",
+          "meaning_ja": "うまくいかなくなる、悪化する"
+        },
+        {
+          "expression": "crash and burn",
+          "meaning": "To fail spectacularly",
+          "meaning_ja": "大失敗する、派手に失敗する"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "scene": "Night Before the Show",
+      "character": "Eddie",
+      "english": "Then we pick up the pieces and try again. That's what we always do.",
+      "japanese": "そしたら立て直して、またやるんだ。いつもそうしてきただろ。",
+      "idioms": [
+        {
+          "expression": "pick up the pieces",
+          "meaning": "To recover from a difficult or failed situation",
+          "meaning_ja": "立て直す、やり直す"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "scene": "Night Before the Show",
+      "character": "Ash",
+      "english": "I wrote one last song for Clay. It's a long shot, but I think it might seal the deal.",
+      "japanese": "クレイのために最後の一曲を書いた。望みは薄いけど、これで決まるかもしれない。",
+      "idioms": [
+        {
+          "expression": "a long shot",
+          "meaning": "Something unlikely to succeed but worth trying",
+          "meaning_ja": "望みの薄い試み、可能性は低い"
+        },
+        {
+          "expression": "seal the deal",
+          "meaning": "To finalize an agreement or ensure success",
+          "meaning_ja": "取引を成立させる、決定的にする"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "scene": "Night Before the Show",
+      "character": "Rosita",
+      "english": "I called my kids tonight. Hearing their voices gave me a second wind.",
+      "japanese": "今夜子供たちに電話したの。声を聞いたら、また元気が湧いてきたわ。",
+      "idioms": [
+        {
+          "expression": "a second wind",
+          "meaning": "A renewed burst of energy after feeling tired",
+          "meaning_ja": "新たな活力、息を吹き返す"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "scene": "Night Before the Show",
+      "character": "Johnny",
+      "english": "Win or lose, I've grown so much. I'm not the same person who started this journey.",
+      "japanese": "勝っても負けても、すごく成長した。この旅を始めた時の自分とは違う。",
+      "idioms": []
+    },
+    {
+      "id": 220,
+      "scene": "Night Before the Show",
+      "character": "Meena",
+      "english": "Tomorrow, I'm going to put my best foot forward. No more hiding.",
+      "japanese": "明日は、最善を尽くす。もう隠れない。",
+      "idioms": [
+        {
+          "expression": "put my best foot forward",
+          "meaning": "To make the best possible impression",
+          "meaning_ja": "最善を尽くす、全力で臨む"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "scene": "Dressing Room Pep Talk",
+      "character": "Buster Moon",
+      "english": "Look, I know I've been running around like a chicken with its head cut off.",
+      "japanese": "聞いて、僕がパニック状態で走り回ってたのは分かってる。",
+      "idioms": [
+        {
+          "expression": "like a chicken with its head cut off",
+          "meaning": "In a frantic, disorganized manner",
+          "meaning_ja": "パニック状態で、大慌てで"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "scene": "Dressing Room Pep Talk",
+      "character": "Buster Moon",
+      "english": "But looking at all of you... I know in my gut that we're going to nail this.",
+      "japanese": "でもみんなを見ていると...直感で分かる、きっとうまくいくって。",
+      "idioms": [
+        {
+          "expression": "know in my gut",
+          "meaning": "To have a strong intuitive feeling",
+          "meaning_ja": "直感で分かる、腹の底から感じる"
+        },
+        {
+          "expression": "nail this",
+          "meaning": "To accomplish something perfectly",
+          "meaning_ja": "完璧にやる、成功させる"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "scene": "Dressing Room Pep Talk",
+      "character": "Ash",
+      "english": "We've got each other. That's all we need. Let's go out with a bang!",
+      "japanese": "お互いがいる。それだけで十分。派手にいこう！",
+      "idioms": [
+        {
+          "expression": "go out with a bang",
+          "meaning": "To end in a spectacular, impressive way",
+          "meaning_ja": "派手に締めくくる、華々しく終わる"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "scene": "Crystal's Downfall",
+      "character": "Jimmy Crystal",
+      "english": "This isn't over, Moon! I'll have the last laugh!",
+      "japanese": "これは終わりじゃないぞ、ムーン！最後に笑うのは俺だ！",
+      "idioms": [
+        {
+          "expression": "have the last laugh",
+          "meaning": "To ultimately succeed after others expected failure",
+          "meaning_ja": "最後に笑う、最終的に勝利する"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "scene": "Crystal's Downfall",
+      "character": "Porsha Crystal",
+      "english": "Daddy, it's over. You need to face facts. The audience loved THEIR show.",
+      "japanese": "パパ、終わったの。現実を受け入れて。観客は彼らのショーを愛したのよ。",
+      "idioms": [
+        {
+          "expression": "face facts",
+          "meaning": "To accept the truth of a situation",
+          "meaning_ja": "現実を受け入れる、事実に向き合う"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "scene": "Crystal's Downfall",
+      "character": "Jimmy Crystal",
+      "english": "You're turning your back on your own father?",
+      "japanese": "自分の父親に背を向けるのか？",
+      "idioms": [
+        {
+          "expression": "turning your back on",
+          "meaning": "To abandon or reject someone",
+          "meaning_ja": "背を向ける、見捨てる"
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "scene": "Crystal's Downfall",
+      "character": "Porsha Crystal",
+      "english": "No, I'm standing up for what's right. For the first time, I'm my own person.",
+      "japanese": "いいえ、正しいことのために立ち上がってるの。初めて、自分自身でいられる。",
+      "idioms": [
+        {
+          "expression": "standing up for",
+          "meaning": "Defending or supporting a principle or person",
+          "meaning_ja": "〜のために立ち上がる、〜を支持する"
+        },
+        {
+          "expression": "my own person",
+          "meaning": "Independent; making one's own decisions",
+          "meaning_ja": "自分自身でいる、自立した人間"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "scene": "Final Celebration",
+      "character": "Buster Moon",
+      "english": "From the bottom of my heart, thank you all. We came, we saw, we conquered!",
+      "japanese": "心の底から、みんなありがとう。来て、見て、征服した！",
+      "idioms": [
+        {
+          "expression": "from the bottom of my heart",
+          "meaning": "With complete sincerity",
+          "meaning_ja": "心の底から、心から"
+        },
+        {
+          "expression": "we came, we saw, we conquered",
+          "meaning": "We arrived and achieved victory (quote from Julius Caesar)",
+          "meaning_ja": "来た、見た、勝った（ジュリアス・シーザーの名言）"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "scene": "Final Celebration",
+      "character": "Gunter",
+      "english": "This calls for a celebration! Let's paint the town red!",
+      "japanese": "お祝いだ！街を大いに盛り上がろう！",
+      "idioms": [
+        {
+          "expression": "calls for a celebration",
+          "meaning": "Deserves to be celebrated",
+          "meaning_ja": "お祝いに値する"
+        },
+        {
+          "expression": "paint the town red",
+          "meaning": "To go out and celebrate wildly",
+          "meaning_ja": "街で大いに騒ぐ、派手に遊ぶ"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "scene": "Final Celebration",
+      "character": "Clay Calloway",
+      "english": "I'd forgotten what it feels like to be part of something bigger than yourself. You brought me back to life.",
+      "japanese": "自分より大きなものの一部であることがどんな気持ちか忘れていた。君たちが俺を生き返らせてくれた。",
+      "idioms": [
+        {
+          "expression": "bigger than yourself",
+          "meaning": "Something more important than individual concerns",
+          "meaning_ja": "自分より大きなもの"
+        },
+        {
+          "expression": "brought me back to life",
+          "meaning": "Restored someone's vitality or interest in living",
+          "meaning_ja": "生き返らせた、活力を取り戻させた"
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "scene": "Final Celebration",
+      "character": "Buster Moon",
+      "english": "That's a wrap, everybody! What a ride it's been!",
+      "japanese": "みんな、これで終わりだ！なんて旅だったんだろう！",
+      "idioms": [
+        {
+          "expression": "that's a wrap",
+          "meaning": "That's the end of the work (originally from filmmaking)",
+          "meaning_ja": "これで終了、お疲れ様"
+        },
+        {
+          "expression": "what a ride",
+          "meaning": "What an exciting or eventful experience",
+          "meaning_ja": "なんて体験だ、すごい経験だった"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "scene": "Extra Idioms - Daily Conversations",
+      "character": "Buster Moon",
+      "english": "I know it's a tall order, but I have faith in every single one of you.",
+      "japanese": "無茶な注文だとは分かってるけど、一人一人を信じてるよ。",
+      "idioms": [
+        {
+          "expression": "a tall order",
+          "meaning": "A very demanding or difficult request",
+          "meaning_ja": "無茶な注文、難しい要求"
+        },
+        {
+          "expression": "have faith in",
+          "meaning": "To trust and believe in someone or something",
+          "meaning_ja": "信じている、信頼している"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "scene": "Extra Idioms - Daily Conversations",
+      "character": "Jimmy Crystal",
+      "english": "Don't try to butter me up. I see right through you.",
+      "japanese": "ゴマをすろうとするな。お前の考えはお見通しだ。",
+      "idioms": [
+        {
+          "expression": "butter me up",
+          "meaning": "To flatter someone to gain their favor",
+          "meaning_ja": "ゴマをする、お世辞を言う"
+        },
+        {
+          "expression": "see right through you",
+          "meaning": "To understand someone's true intentions despite deception",
+          "meaning_ja": "お見通しだ、本心を見抜いている"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "scene": "Extra Idioms - Daily Conversations",
+      "character": "Ash",
+      "english": "I had a heart-to-heart with Clay. I think he's coming around.",
+      "japanese": "クレイと腹を割って話した。彼も気持ちが変わってきてると思う。",
+      "idioms": [
+        {
+          "expression": "a heart-to-heart",
+          "meaning": "A sincere, intimate conversation",
+          "meaning_ja": "腹を割った話、胸襟を開いた会話"
+        },
+        {
+          "expression": "coming around",
+          "meaning": "Gradually changing one's opinion or attitude",
+          "meaning_ja": "考えが変わってきている、だんだん受け入れている"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "scene": "Extra Idioms - Daily Conversations",
+      "character": "Rosita",
+      "english": "I miss my family, but I have to see this through to the end.",
+      "japanese": "家族が恋しいけど、最後までやり遂げなきゃ。",
+      "idioms": [
+        {
+          "expression": "see this through",
+          "meaning": "To continue with something until it is finished",
+          "meaning_ja": "最後までやり遂げる"
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "scene": "Extra Idioms - Daily Conversations",
+      "character": "Meena",
+      "english": "I used to be scared of my own shadow. Now look at me up on that stage.",
+      "japanese": "昔は自分の影にも怯えていた。今、ステージに立っている私を見て。",
+      "idioms": [
+        {
+          "expression": "scared of my own shadow",
+          "meaning": "Extremely timid or fearful",
+          "meaning_ja": "自分の影にも怯える、極度に臆病な"
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "scene": "Extra Idioms - Daily Conversations",
+      "character": "Gunter",
+      "english": "When life gives you lemons, make lemonade! And then dance!",
+      "japanese": "人生がレモンをくれたら、レモネードを作れ！そして踊れ！",
+      "idioms": [
+        {
+          "expression": "when life gives you lemons, make lemonade",
+          "meaning": "Make the best of a bad situation",
+          "meaning_ja": "逆境を逆手に取る、悪い状況を良いものに変える"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "scene": "Extra Idioms - Daily Conversations",
+      "character": "Suki",
+      "english": "The press is having a field day with this story. You're front-page news.",
+      "japanese": "マスコミがこの話で大喜びしてるわ。あなたたちは一面記事よ。",
+      "idioms": [
+        {
+          "expression": "having a field day",
+          "meaning": "Taking great advantage of a situation, especially to criticize",
+          "meaning_ja": "大喜びしている、ここぞとばかりに楽しんでいる"
+        },
+        {
+          "expression": "front-page news",
+          "meaning": "Very important or sensational news",
+          "meaning_ja": "一面記事、トップニュース"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "scene": "Extra Idioms - Daily Conversations",
+      "character": "Eddie",
+      "english": "We're finally out of the woods. The hard part is over.",
+      "japanese": "やっと危機を脱した。大変な部分は終わったよ。",
+      "idioms": [
+        {
+          "expression": "out of the woods",
+          "meaning": "Past the most dangerous or difficult part",
+          "meaning_ja": "危機を脱した、最悪の時期を過ぎた"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "scene": "Extra Idioms - Daily Conversations",
+      "character": "Nooshy",
+      "english": "Actions speak louder than words. Show them what you're made of, Johnny!",
+      "japanese": "行動は言葉より雄弁よ。あなたの実力を見せてやりなさい、ジョニー！",
+      "idioms": [
+        {
+          "expression": "actions speak louder than words",
+          "meaning": "What you do is more important than what you say",
+          "meaning_ja": "行動は言葉より雄弁、不言実行"
+        },
+        {
+          "expression": "what you're made of",
+          "meaning": "One's true character or abilities",
+          "meaning_ja": "あなたの本当の実力、何でできているか"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "scene": "Extra Idioms - Daily Conversations",
+      "character": "Buster Moon",
+      "english": "We might be underdogs, but that's what makes our story so special.",
+      "japanese": "僕たちは弱者かもしれないけど、だからこそ僕たちの物語は特別なんだ。",
+      "idioms": [
+        {
+          "expression": "underdogs",
+          "meaning": "People or teams expected to lose; the less favored competitor",
+          "meaning_ja": "弱者、不利な立場の人"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "scene": "Extra Idioms - Expressions of Emotion",
+      "character": "Ash",
+      "english": "Playing for Clay was nerve-wracking, but I kept my cool.",
+      "japanese": "クレイの前で演奏するのはとても緊張したけど、冷静を保った。",
+      "idioms": [
+        {
+          "expression": "nerve-wracking",
+          "meaning": "Causing great anxiety or stress",
+          "meaning_ja": "とても緊張する、ハラハラする"
+        },
+        {
+          "expression": "kept my cool",
+          "meaning": "Stayed calm under pressure",
+          "meaning_ja": "冷静を保った、平常心を保った"
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "scene": "Extra Idioms - Expressions of Emotion",
+      "character": "Meena",
+      "english": "My heart was in my throat the whole performance. But I did it!",
+      "japanese": "パフォーマンス中ずっと心臓がドキドキだった。でもやったわ！",
+      "idioms": [
+        {
+          "expression": "heart was in my throat",
+          "meaning": "Extremely nervous or anxious",
+          "meaning_ja": "心臓が口から出そう、極度に緊張した"
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "scene": "Extra Idioms - Expressions of Emotion",
+      "character": "Johnny",
+      "english": "When the crowd started cheering, I was over the moon. Pure joy.",
+      "japanese": "観客が歓声を上げ始めた時、最高に嬉しかった。純粋な喜び。",
+      "idioms": [
+        {
+          "expression": "over the moon",
+          "meaning": "Extremely happy and excited",
+          "meaning_ja": "大喜び、有頂天"
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "scene": "Extra Idioms - Expressions of Emotion",
+      "character": "Rosita",
+      "english": "It was touch and go for a while. I honestly thought we wouldn't make it.",
+      "japanese": "しばらくは危なかったわ。正直、うまくいかないと思った。",
+      "idioms": [
+        {
+          "expression": "touch and go",
+          "meaning": "A risky situation where the outcome is uncertain",
+          "meaning_ja": "危機一髪の、予断を許さない"
+        },
+        {
+          "expression": "make it",
+          "meaning": "To succeed or survive",
+          "meaning_ja": "うまくいく、成功する"
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "scene": "Extra Idioms - Expressions of Emotion",
+      "character": "Clay Calloway",
+      "english": "Stepping on that stage again... it felt like a weight had been lifted off my shoulders.",
+      "japanese": "再びあのステージに立つと...肩の荷が下りたような気がした。",
+      "idioms": [
+        {
+          "expression": "a weight lifted off my shoulders",
+          "meaning": "A feeling of relief from worry or responsibility",
+          "meaning_ja": "肩の荷が下りた、重荷が取れた"
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "scene": "Extra Idioms - Expressions of Emotion",
+      "character": "Buster Moon",
+      "english": "This whole adventure has been a roller coaster of emotions. But I wouldn't change a thing.",
+      "japanese": "この冒険は感情のジェットコースターだった。でも何一つ変えたくない。",
+      "idioms": [
+        {
+          "expression": "a roller coaster of emotions",
+          "meaning": "An experience with many extreme emotional changes",
+          "meaning_ja": "感情のジェットコースター、激しい感情の起伏"
+        },
+        {
+          "expression": "wouldn't change a thing",
+          "meaning": "Completely satisfied with how things turned out",
+          "meaning_ja": "何一つ変えたくない、すべてに満足"
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "scene": "Extra Idioms - Business Talk",
+      "character": "Jimmy Crystal",
+      "english": "Time is money, Moon. Stop beating around the bush and get to the point.",
+      "japanese": "時は金なりだ、ムーン。回りくどいことはやめて本題に入れ。",
+      "idioms": [
+        {
+          "expression": "time is money",
+          "meaning": "Time is a valuable resource that should not be wasted",
+          "meaning_ja": "時は金なり"
+        },
+        {
+          "expression": "get to the point",
+          "meaning": "To state the main idea directly",
+          "meaning_ja": "本題に入る、要点を言う"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "scene": "Extra Idioms - Business Talk",
+      "character": "Suki",
+      "english": "The reviews are in and they're raving about the show. Word of mouth is spreading like wildfire.",
+      "japanese": "レビューが出たわ。ショーを絶賛してる。口コミが瞬く間に広がってる。",
+      "idioms": [
+        {
+          "expression": "raving about",
+          "meaning": "Talking with great enthusiasm about something",
+          "meaning_ja": "絶賛している"
+        },
+        {
+          "expression": "word of mouth",
+          "meaning": "Information passed from person to person by talking",
+          "meaning_ja": "口コミ"
+        },
+        {
+          "expression": "spreading like wildfire",
+          "meaning": "Spreading very quickly",
+          "meaning_ja": "瞬く間に広がる、あっという間に広まる"
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "scene": "Extra Idioms - Business Talk",
+      "character": "Buster Moon",
+      "english": "We need to strike while the iron is hot. Let's book the next show immediately!",
+      "japanese": "鉄は熱いうちに打たなきゃ。すぐに次のショーを予約しよう！",
+      "idioms": [
+        {
+          "expression": "strike while the iron is hot",
+          "meaning": "To take advantage of an opportunity immediately",
+          "meaning_ja": "鉄は熱いうちに打て、好機を逃すな"
+        }
+      ]
+    }
+  ]
+}
