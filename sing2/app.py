@@ -66,12 +66,21 @@ CHARACTER_COLORS = {
     "Clay Calloway": ("#636E72", "#E5E7E9"),
     "Jimmy Crystal": ("#D63031", "#FADBD8"),
     "Porsha Crystal": ("#A29BFE", "#EDE7F6"),
-    "Suki": ("#00CEC9", "#D1F2EB"),
+    "Suki Lane": ("#00CEC9", "#D1F2EB"),
     "Nooshy": ("#FF7675", "#FDEBD0"),
     "Alfonso": ("#55EFC4", "#D5F5E3"),
     "Miss Crawly": ("#B2BEC3", "#F2F3F4"),
-    "Eddie": ("#74B9FF", "#D6EAF8"),
     "Klaus": ("#2D3436", "#E5E7E9"),
+    "Klaus Kickenklober": ("#2D3436", "#E5E7E9"),
+    "Nana Noodleman": ("#9B59B6", "#F5EEF8"),
+    "Darius": ("#F39C12", "#FEF9E7"),
+    "Jerry": ("#5DADE2", "#D6EAF8"),
+    "Big Daddy": ("#784212", "#F5E6CC"),
+    "Norman": ("#45B39D", "#D5F5E3"),
+    "Linda": ("#C39BD3", "#F5EEF8"),
+    "Linda Le Bon": ("#C39BD3", "#F5EEF8"),
+    "Barry": ("#7F8C8D", "#E5E7E9"),
+    "Rick": ("#E74C3C", "#FADBD8"),
 }
 
 DEFAULT_COLORS = ("#6C5CE7", "#DCD6F7")
