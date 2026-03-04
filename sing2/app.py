@@ -1,6 +1,7 @@
 import html
 import json
 import math
+import re
 from pathlib import Path
 
 import streamlit as st
@@ -87,6 +88,22 @@ DEFAULT_COLORS = ("#6C5CE7", "#DCD6F7")
 
 def get_char_colors(character):
     return CHARACTER_COLORS.get(character, DEFAULT_COLORS)
+
+
+def underline_idioms_in_text(text, idioms):
+    """Highlight idiom expressions in the text with underline styling."""
+    if not idioms:
+        return html.escape(text)
+
+    safe_text = html.escape(text)
+
+    for idiom in idioms:
+        expr = html.escape(idiom["expression"])
+        pattern = re.compile(re.escape(expr), re.IGNORECASE)
+        replacement = f'<span class="idiom-highlight">{expr}</span>'
+        safe_text = pattern.sub(replacement, safe_text, count=1)
+
+    return safe_text
 
 
 def scene_summary(scene_dialogues):
@@ -310,11 +327,30 @@ def apply_custom_style():
             cursor: help;
         }
 
-        .idiom-hints {
-            font-size: 0.78rem;
-            color: var(--ink-muted);
-            margin-top: -0.15rem;
-            margin-bottom: 0.1rem;
+        /* Overlay: highlighted sentence sits on top of the transparent button */
+        .idiom-sentence {
+            font-size: 0.91rem;
+            line-height: 1.4;
+            font-weight: 500;
+            font-family: 'Noto Sans JP', 'Inter', sans-serif;
+            color: var(--ink-main);
+            pointer-events: none;
+        }
+
+        /* Collapse gap between overlay and button so they stack */
+        [data-testid="stElementContainer"]:has(.idiom-sentence) {
+            margin-bottom: -1rem !important;
+            position: relative;
+            z-index: 2;
+        }
+
+        /* Make the button text transparent when covered by overlay */
+        [data-testid="stElementContainer"]:has(.idiom-sentence) + [data-testid="stElementContainer"] [data-testid="stButton"] button {
+            color: transparent !important;
+        }
+        [data-testid="stElementContainer"]:has(.idiom-sentence) + [data-testid="stElementContainer"] [data-testid="stButton"] button:hover {
+            color: transparent !important;
+            text-decoration: none !important;
         }
 
         .idiom-card {
@@ -537,11 +573,9 @@ def apply_custom_style():
                 margin-top: 0.1rem;
             }
 
-            /* Idiom hints — pull up closer to sentence */
-            .idiom-hints {
-                font-size: 0.72rem;
-                margin-top: -0.3rem;
-                margin-bottom: -0.2rem;
+            /* Overlay stacking on mobile */
+            [data-testid="stElementContainer"]:has(.idiom-sentence) {
+                margin-bottom: -0.8rem !important;
             }
 
             /* Compact expander */
@@ -651,7 +685,15 @@ def render_line(dialogue):
         unsafe_allow_html=True,
     )
 
-    # Tap sentence to toggle EN/JP
+    # For EN lines with idioms, show highlighted overlay before the button
+    if language == "EN" and idioms:
+        highlighted = underline_idioms_in_text(dialogue["english"], idioms)
+        st.markdown(
+            f"<div class='idiom-sentence'>{highlighted}</div>",
+            unsafe_allow_html=True,
+        )
+
+    # Tap sentence to toggle EN/JP (button text transparent when overlay present)
     if st.button(
         line_text,
         key=f"line_toggle_{dialogue['id']}",
@@ -659,17 +701,6 @@ def render_line(dialogue):
     ):
         toggle_line_language(dialogue["id"])
         st.rerun()
-
-    # Show idiom expressions with red underlines when in EN mode
-    if language == "EN" and idioms:
-        idiom_spans = " &middot; ".join(
-            f"<span class='idiom-highlight'>{html.escape(i['expression'])}</span>"
-            for i in idioms
-        )
-        st.markdown(
-            f"<div class='idiom-hints'>{idiom_spans}</div>",
-            unsafe_allow_html=True,
-        )
 
     # Expandable idiom section
     if idioms:
