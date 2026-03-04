@@ -475,20 +475,15 @@ def apply_custom_style():
         }
 
         @media (max-width: 768px) {
-            /* Kill scroll trap + tighten container */
+            /* Kill scroll trap */
             [data-testid="stVerticalBlockBorderWrapper"] {
                 height: auto !important;
-                padding: 0.25rem 0.5rem 0.4rem;
+                padding: 0.3rem 0.5rem 0.5rem;
             }
             [data-testid="stMainBlockContainer"] {
                 max-width: 100% !important;
                 padding-left: 0.75rem;
                 padding-right: 0.75rem;
-            }
-
-            /* Reduce Streamlit's internal element spacing */
-            [data-testid="stVerticalBlock"] {
-                gap: 0.15rem !important;
             }
 
             /* Header */
@@ -515,39 +510,38 @@ def apply_custom_style():
                 margin-bottom: 0;
             }
             .speaker-name {
-                font-size: 0.62rem;
+                font-size: 0.65rem;
                 letter-spacing: 0.4px;
             }
             .lang-chip {
-                font-size: 0.5rem;
-                padding: 0.02rem 0.22rem;
+                font-size: 0.52rem;
+                padding: 0.02rem 0.24rem;
             }
             .idiom-count-badge {
-                font-size: 0.52rem;
-                padding: 0.01rem 0.26rem;
+                font-size: 0.55rem;
+                padding: 0.01rem 0.28rem;
             }
 
-            /* Compact line text buttons */
+            /* Line text buttons — keep left-aligned, reduce font */
             div[data-testid="stButton"] > button {
-                font-size: 0.84rem;
-                line-height: 1.3;
-                min-height: unset;
-                padding: 0.15rem 0 !important;
+                font-size: 0.85rem;
+                line-height: 1.35;
+                text-align: left !important;
             }
 
-            /* Compact line rows */
+            /* Compact line rows + dividers */
             .line-row {
-                padding: 0.15rem 0;
+                padding: 0.2rem 0;
             }
             .line-divider {
-                margin-top: 0.05rem;
+                margin-top: 0.1rem;
             }
 
-            /* Smaller idiom hints */
+            /* Idiom hints — pull up closer to sentence */
             .idiom-hints {
-                font-size: 0.7rem;
-                margin-top: -0.1rem;
-                margin-bottom: 0;
+                font-size: 0.72rem;
+                margin-top: -0.3rem;
+                margin-bottom: -0.2rem;
             }
 
             /* Compact expander */
@@ -555,12 +549,7 @@ def apply_custom_style():
                 border-radius: 8px;
             }
             [data-testid="stExpander"] summary {
-                font-size: 0.7rem;
-                min-height: unset !important;
-                padding: 0.25rem 0.5rem !important;
-            }
-            [data-testid="stExpander"] details > div {
-                padding: 0.3rem 0.5rem !important;
+                font-size: 0.72rem;
             }
 
             /* Stats */
@@ -580,17 +569,17 @@ def apply_custom_style():
 
             /* Compact idiom cards inside expander */
             .idiom-card {
-                padding: 0.35rem 0.5rem;
+                padding: 0.4rem 0.55rem;
                 margin: 0.15rem 0 0.1rem;
             }
             .idiom-expression {
-                font-size: 0.8rem;
+                font-size: 0.82rem;
             }
             .idiom-meaning {
-                font-size: 0.75rem;
+                font-size: 0.76rem;
             }
             .idiom-meaning-ja {
-                font-size: 0.72rem;
+                font-size: 0.74rem;
             }
 
             /* Touch targets for +/- buttons only */
