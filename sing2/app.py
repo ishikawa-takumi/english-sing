@@ -90,20 +90,56 @@ def get_char_colors(character):
     return CHARACTER_COLORS.get(character, DEFAULT_COLORS)
 
 
+def _idiom_pattern(expression):
+    """Convert idiom expression to a flexible regex.
+
+    Handles verb conjugation (knock -> knocking) and pronoun
+    substitution (one's -> your/his/her/etc).
+    """
+    words = expression.split()
+    parts = []
+    for word in words:
+        low = word.lower().rstrip(".,!?;:")
+        if low in ("one's", "someone's"):
+            parts.append(
+                r"(?:my|your|his|her|its|our|their|one's|someone's)"
+            )
+        elif low in ("someone", "somebody"):
+            parts.append(r"\w+")
+        elif len(low) <= 2:
+            parts.append(re.escape(low))
+        else:
+            parts.append(re.escape(low) + r"\w{0,4}")
+    return r"\s+" .join(parts)
+
+
 def underline_idioms_in_text(text, idioms):
     """Highlight idiom expressions in the text with underline styling."""
     if not idioms:
         return html.escape(text)
 
-    safe_text = html.escape(text)
-
+    # Match against raw text, then HTML-escape around the spans
+    matches = []
     for idiom in idioms:
-        expr = html.escape(idiom["expression"])
-        pattern = re.compile(re.escape(expr), re.IGNORECASE)
-        replacement = f'<span class="idiom-highlight">{expr}</span>'
-        safe_text = pattern.sub(replacement, safe_text, count=1)
+        pattern = _idiom_pattern(idiom["expression"])
+        m = re.search(pattern, text, re.IGNORECASE)
+        if m and not any(m.start() < e and m.end() > s for s, e in matches):
+            matches.append((m.start(), m.end()))
 
-    return safe_text
+    matches.sort()
+
+    parts = []
+    pos = 0
+    for start, end in matches:
+        parts.append(html.escape(text[pos:start]))
+        parts.append(
+            f'<span class="idiom-highlight">'
+            f"{html.escape(text[start:end])}</span>"
+        )
+        pos = end
+    parts.append(html.escape(text[pos:]))
+
+    return "".join(parts)
 
 
 def scene_summary(scene_dialogues):
