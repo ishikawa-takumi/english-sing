@@ -1,7 +1,6 @@
 import html
 import json
 import math
-import re
 from pathlib import Path
 
 import streamlit as st
@@ -88,22 +87,6 @@ DEFAULT_COLORS = ("#6C5CE7", "#DCD6F7")
 
 def get_char_colors(character):
     return CHARACTER_COLORS.get(character, DEFAULT_COLORS)
-
-
-def underline_idioms_in_text(text, idioms):
-    """Highlight idiom expressions in the text with underline styling."""
-    if not idioms:
-        return html.escape(text)
-
-    safe_text = html.escape(text)
-
-    for idiom in idioms:
-        expr = html.escape(idiom["expression"])
-        pattern = re.compile(re.escape(expr), re.IGNORECASE)
-        replacement = f'<span class="idiom-highlight">{expr}</span>'
-        safe_text = pattern.sub(replacement, safe_text, count=1)
-
-    return safe_text
 
 
 def scene_summary(scene_dialogues):
@@ -594,31 +577,14 @@ def render_line(dialogue):
         unsafe_allow_html=True,
     )
 
-    # Show text with underlined idioms (EN mode) or plain Japanese
-    if language == "EN" and idioms:
-        highlighted = underline_idioms_in_text(dialogue["english"], idioms)
-        st.markdown(
-            f"<div style='font-size:0.91rem;line-height:1.4;font-weight:500;"
-            f"font-family:Inter,Noto Sans JP,sans-serif;margin-bottom:0.1rem;'>"
-            f"{highlighted}</div>",
-            unsafe_allow_html=True,
-        )
-        # Toggle button (smaller, just for switching)
-        if st.button(
-            "JP",
-            key=f"toggle_{dialogue['id']}",
-            help="Switch to Japanese",
-        ):
-            toggle_line_language(dialogue["id"])
-            st.rerun()
-    else:
-        if st.button(
-            line_text,
-            key=f"line_toggle_{dialogue['id']}",
-            use_container_width=True,
-        ):
-            toggle_line_language(dialogue["id"])
-            st.rerun()
+    # Tap sentence to toggle EN/JP
+    if st.button(
+        line_text,
+        key=f"line_toggle_{dialogue['id']}",
+        use_container_width=True,
+    ):
+        toggle_line_language(dialogue["id"])
+        st.rerun()
 
     # Expandable idiom section
     if idioms:
@@ -654,7 +620,7 @@ def main():
     st.markdown(
         "<div class='app-subtitle'>"
         "Learn English idioms & expressions from Sing 2. "
-        "Tap any line to toggle EN/JP. Idioms are <span class='idiom-highlight'>underlined</span>."
+        "Tap any line to toggle EN/JP."
         "</div>",
         unsafe_allow_html=True,
     )
