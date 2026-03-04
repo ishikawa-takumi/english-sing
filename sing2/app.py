@@ -310,6 +310,13 @@ def apply_custom_style():
             cursor: help;
         }
 
+        .idiom-hints {
+            font-size: 0.78rem;
+            color: var(--ink-muted);
+            margin-top: -0.15rem;
+            margin-bottom: 0.1rem;
+        }
+
         .idiom-card {
             background: var(--idiom-bg);
             border: 1px solid var(--idiom-border);
@@ -585,6 +592,17 @@ def render_line(dialogue):
     ):
         toggle_line_language(dialogue["id"])
         st.rerun()
+
+    # Show idiom expressions with red underlines when in EN mode
+    if language == "EN" and idioms:
+        idiom_spans = " &middot; ".join(
+            f"<span class='idiom-highlight'>{html.escape(i['expression'])}</span>"
+            for i in idioms
+        )
+        st.markdown(
+            f"<div class='idiom-hints'>{idiom_spans}</div>",
+            unsafe_allow_html=True,
+        )
 
     # Expandable idiom section
     if idioms:
